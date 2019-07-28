@@ -4,6 +4,11 @@
 
 欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/polaris1119/golangweekly/issues) 。
 
+## 2019
+
+**七月**：[第 1 期](docs/issue-001.md)
+
 ## 想法来自阮一峰老师的《科技爱好者周刊》
 
 https://github.com/ruanyf/weekly
+
