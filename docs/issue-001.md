@@ -129,7 +129,7 @@ sys	0m0.093s
 
 6）不使用 proxy
 
-```
+```shell
 time GOPATH=/tmp/throw GO111MODULE=on GOPROXY=direct go get github.com/go-sql-driver/mysql
 ...
 real	0m12.333s
