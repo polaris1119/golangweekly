@@ -120,7 +120,7 @@ Go 的 GC 自打出生的时候就开始被人诟病，但是在引入v1.5的三
 
 1、[BFE：百度开源的 7 层负载均衡器，Go语言实现](https://github.com/baidu/bfe)
 
-LinDB 是一款开源分布式时序数据库，具有高性能、高可用性和水平扩展性等特性。
+BFE 是百度开源的，很低调。支持多种协议，包括HTTP，HTTPS，SPDY，HTTP2，WebSocket，TLS 等。
 
 2、[fresh：保存/创建/删除源文件后自动构建和启动 Web 应用程序](https://github.com/gravityblast/fresh)（star：2200+）
 
