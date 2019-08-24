@@ -6,7 +6,7 @@
 
 ## 2019
 
-**八月**：[第 4 期](docs/issue-004.md):high_brightness: | [第 3 期](docs/issue-003.md) | [第 2 期](docs/issue-002.md)
+**八月**：[第 5 期](docs/issue-005.md):high_brightness: | [第 4 期](docs/issue-004.md) | [第 3 期](docs/issue-003.md) | [第 2 期](docs/issue-002.md)
 
 **七月**：[第 1 期](docs/issue-001.md)
 
