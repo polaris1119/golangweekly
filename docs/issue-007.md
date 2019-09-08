@@ -2,11 +2,11 @@
 
 这里记录每周值得分享的 Go 语言相关内容，周日发布。
 
-欢迎投稿，推荐或自荐文章/软件/资源等，请[提交 issue](https://github.com/polaris1119/golangweekly/issues) 。
+本周刊开源（GitHub：[polaris1119/golangweekly](https://github.com/polaris1119/golangweekly)），欢迎投稿，推荐或自荐文章/软件/资源等，请[提交 issue](https://github.com/polaris1119/golangweekly/issues) 。
 
 鉴于大部分人可能没法坚持把英文文章看完，因此，周刊中会尽可能推荐优质的中文文章。优秀的英文文章，我们的 GCTT 组织会进行翻译。
 
-![](/Users/xuxinhua/opensource/golang/golangweekly/docs/imgs/issue007/cover.png)
+![](imgs/issue007/cover.png)
 
 （题图：来源 Twitter）
 
@@ -280,9 +280,11 @@ Bokchoy是一个简单的 Go 库，用于排队任务并在后台与工作人员
 
 如果您喜欢 HTTPie 的界面但却错过了 curl 的功能，那么 curlie 就是您想要的工具。 Curlie 是 curl 的前端，增加了httpie的易用性，而不会影响功能和性能。
 
-![](https://raw.githubusercontent.com/rs/curlie/master/doc/get.png)3、[bed：用 Go 编写的二进制/十六进制编辑器](https://github.com/itchyny/bed)
+![curlie](imgs/issue007/get.png)
 
-![](https://user-images.githubusercontent.com/375258/38499347-2f71306c-3c42-11e8-926e-1782b0bc73f3.png)
+3、[bed：用 Go 编写的二进制/十六进制编辑器](https://github.com/itchyny/bed)
+
+![bed](imgs/issue007/bed.png)
 
 4、[阿里云大学开发者课堂](https://edu.aliyun.com/developer)
 
