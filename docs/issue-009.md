@@ -243,4 +243,4 @@ rebase 不容易掌握，但在多人合作开发中却是很重要的，本文�
 
 微信搜索"Go语言中文网"或者扫描二维码，即可订阅。
 
-![wechat](imgs/wechat.jpg)
+![wechat](imgs/wechat.png)
