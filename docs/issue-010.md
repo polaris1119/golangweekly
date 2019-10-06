@@ -121,7 +121,7 @@ func main() {
 
 由盛傲飞分享，煎鱼整理的完整、全面的 Go module 指南，推荐阅读。B 站的视频：https://www.bilibili.com/video/av69111199
 
-![go-module](imgs/issue010/go-module.png)
+![go-module](https://raw.githubusercontent.com/polaris1119/golangweekly/master/docs/imgs/issue010/go-module.png)
 
 8、[一文理清 Go 引用的常见疑惑](https://mp.weixin.qq.com/s/o-iE3ny3-GOIhcWsUbVgVA)
 
@@ -149,7 +149,7 @@ Prometheus已经被广泛应用于数据中心监控，尤其是和Kubernetes结
 
 ![bigo](imgs/issue010/AB.png)
 
-2、[govvv："go build" 包装，为 Go 应用加入版本信息](https://github.com/ahmetb/govvv)
+2、[govvv：go build 包装，为 Go 应用加入版本信息](https://github.com/ahmetb/govvv)
 
 包装 go build 命令的简单 Go 二进制版本控制工具。
 
