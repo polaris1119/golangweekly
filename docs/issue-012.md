@@ -188,6 +188,8 @@ WebAssembly 似乎很火，但实际应用有多少？
 
 DevDas是一个高度可配置的终端仪表板，适用于希望在一个地方选择并显示所需的最新指标的开发人员。
 
+![](imgs/issue012/devdash.png)
+
 ## 资源&&工具
 
 1、[微软出品的 Kubernetes 学习路径](https://azure.microsoft.com/mediahandler/files/resourcefiles/kubernetes-learning-path/Kubernetes%20Learning%20Path%20version%201.0.pdf)（英文）
