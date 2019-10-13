@@ -8,6 +8,8 @@
 
 ![](imgs/issue012/cover.png)
 
+题图：来源 golangweekly.com
+
 ## 刊首语
 
 Go有语言公认的一个很好的工具是 gofmt，它让不同人的代码写出来风格差不多，这也极大的减少了团队对代码风格的要求。
