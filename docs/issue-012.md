@@ -186,7 +186,7 @@ WebAssembly 似乎很火，但实际应用有多少？
 
 9、[devdash: 面向开发人员的高度可配置的终端仪表板](https://github.com/Phantas0s/devdash)
 
-DevDas是一个高度可配置的终端仪表板，适用于希望在一个地方选择并显示所需的最新指标的开发人员。
+DevDash 是一个高度可配置的终端仪表板，适用于希望在一个地方选择并显示所需的最新指标的开发人员。
 
 ![](imgs/issue012/devdash.png)
 
