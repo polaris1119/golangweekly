@@ -162,11 +162,11 @@ etcd 是一个分布式一致性键值存储。其主要功能有服务注册与
 
 支持使用各种身份验证提供程序(比如：github账号等)登录Kubernetes集群。
 
+![](imgs/issue012/guard.jpg)
+
 4、[oauth2_proxy: 反向代理和静态文件服务器](https://github.com/pusher/oauth2_proxy)
 
 支持使用Google，GitHub和其他提供商账号提供身份验证。
-
-![](imgs/issue012/guard.jpg)
 
 5、[imgproxy: 高性能且安全的图片 size 和格式转换服务器](https://github.com/imgproxy/imgproxy)
 
