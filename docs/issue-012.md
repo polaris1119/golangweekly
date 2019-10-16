@@ -100,7 +100,7 @@ golang中这两种方法的如何取舍选择，之间有什么区别？比如�
 
 本教程提供了 Go 使用 gRPC 的基础教程
 
-3、[Uber Go 语言编程规范](https://mp.weixin.qq.com/s/2BMGGt31pvnPM363GZw6aA)
+3、[Uber Go 语言编程规范](https://mp.weixin.qq.com/s/SNmq0llxuu8NUkhwenegRg)
 
 Uber 出品，值得团队借鉴学习。除了  legendtkl 大神翻译外，Tony Bai 也进行了翻译，都在同一天发布。[Uber Go语言编码规范](https://mp.weixin.qq.com/s/LYLLghOjevBDieAM_LKrjA)。原文：https://github.com/uber-go/guide/blob/master/style.md 。
 
