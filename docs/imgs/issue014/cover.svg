@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="590pt" height="295pt" viewBox="0 0 590 295">
+<g transform="scale(1, -1) translate(0, -295)">
+<path d="M0,0L590,0L590,295L0,295Z" style="fill:#FFFFFF"/>
+<text x="236.01" y="-283.45" transform="scale(1, -1)" style="font-family:Times;font-weight:normal;font-style:normal;font-size:12px">BenchmarkTdigest_Add</text>
+<text x="328.64" y="-3.8613" transform="scale(1, -1)" style="font-family:Times;font-weight:normal;font-style:normal;font-size:12px">source</text>
+<text x="104.17" y="-15.602" transform="scale(1, -1)" style="font-family:Times;font-weight:normal;font-style:normal;font-size:10px">linear</text>
+<text x="221.04" y="-15.602" transform="scale(1, -1)" style="font-family:Times;font-weight:normal;font-style:normal;font-size:10px">rand</text>
+<text x="322.92" y="-15.602" transform="scale(1, -1)" style="font-family:Times;font-weight:normal;font-style:normal;font-size:10px">alternating</text>
+<text x="444.52" y="-15.602" transform="scale(1, -1)" style="font-family:Times;font-weight:normal;font-style:normal;font-size:10px">normal</text>
+<text x="556.12" y="-15.602" transform="scale(1, -1)" style="font-family:Times;font-weight:normal;font-style:normal;font-size:10px">tailspike</text>
+<g transform="rotate(90)">
+<text x="141.91" y="11.555" transform="scale(1, -1)" style="font-family:Times;font-weight:normal;font-style:normal;font-size:12px">ns/op</text>
+</g>
+<text x="30.416" y="-25.509" transform="scale(1, -1)" style="font-family:Times;font-weight:normal;font-style:normal;font-size:10px">0.00</text>
+<text x="15.416" y="-135.38" transform="scale(1, -1)" style="font-family:Times;font-weight:normal;font-style:normal;font-size:10px">2500.00</text>
+<text x="15.416" y="-245.24" transform="scale(1, -1)" style="font-family:Times;font-weight:normal;font-style:normal;font-size:10px">5000.00</text>
+<path d="M50.416,30.23L58.416,30.23" style="fill:none;stroke:#000000;stroke-width:0.5"/>
+<path d="M50.416,140.1L58.416,140.1" style="fill:none;stroke:#000000;stroke-width:0.5"/>
+<path d="M50.416,249.96L58.416,249.96" style="fill:none;stroke:#000000;stroke-width:0.5"/>
+<path d="M54.416,52.204L58.416,52.204" style="fill:none;stroke:#000000;stroke-width:0.5"/>
+<path d="M54.416,74.177L58.416,74.177" style="fill:none;stroke:#000000;stroke-width:0.5"/>
+<path d="M54.416,96.151L58.416,96.151" style="fill:none;stroke:#000000;stroke-width:0.5"/>
+<path d="M54.416,118.12L58.416,118.12" style="fill:none;stroke:#000000;stroke-width:0.5"/>
+<path d="M54.416,162.07L58.416,162.07" style="fill:none;stroke:#000000;stroke-width:0.5"/>
+<path d="M54.416,184.04L58.416,184.04" style="fill:none;stroke:#000000;stroke-width:0.5"/>
+<path d="M54.416,206.02L58.416,206.02" style="fill:none;stroke:#000000;stroke-width:0.5"/>
+<path d="M54.416,227.99L58.416,227.99" style="fill:none;stroke:#000000;stroke-width:0.5"/>
+<path d="M54.416,271.94L58.416,271.94" style="fill:none;stroke:#000000;stroke-width:0.5"/>
+<path d="M58.416,30.23L58.416,279.58" style="fill:none;stroke:#000000;stroke-width:0.5"/>
+<path d="M70.548,30.23L70.548,71.189L100.55,71.189L100.55,30.23Z" style="fill:#F15A60"/>
+<path d="M184.93,30.23L184.93,44.601L214.93,44.601L214.93,30.23Z" style="fill:#F15A60"/>
+<path d="M299.3,30.23L299.3,108.1L329.3,108.1L329.3,30.23Z" style="fill:#F15A60"/>
+<path d="M413.68,30.23L413.68,44.293L443.68,44.293L443.68,30.23Z" style="fill:#F15A60"/>
+<path d="M528.06,30.23L528.06,44.425L558.06,44.425L558.06,30.23Z" style="fill:#F15A60"/>
+<path d="M100.55,30.23L100.55,279.58L130.55,279.58L130.55,30.23Z" style="fill:#7AC36A"/>
+<path d="M214.93,30.23L214.93,66.574L244.93,66.574L244.93,30.23Z" style="fill:#7AC36A"/>
+<path d="M329.3,30.23L329.3,164.4L359.3,164.4L359.3,30.23Z" style="fill:#7AC36A"/>
+<path d="M443.68,30.23L443.68,68.244L473.68,68.244L473.68,30.23Z" style="fill:#7AC36A"/>
+<path d="M558.06,30.23L558.06,65.959L588.06,65.959L588.06,30.23Z" style="fill:#7AC36A"/>
+<path d="M570,267.81L570,279.58L590,279.58L590,267.81Z" style="fill:#F15A60"/>
+<text x="547.01" y="-268.03" transform="scale(1, -1)" style="font-family:Times;font-weight:normal;font-style:normal;font-size:12px">caio</text>
+<path d="M570,256.03L570,267.81L590,267.81L590,256.03Z" style="fill:#7AC36A"/>
+<text x="517.68" y="-256.25" transform="scale(1, -1)" style="font-family:Times;font-weight:normal;font-style:normal;font-size:12px">segmentio</text>
+</g>
+</svg>
