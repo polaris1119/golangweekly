@@ -114,8 +114,6 @@ Circuit Breaker 模式。
 
 最近开发了一个非常简单的小工具，总的代码量 200 行不到。这是个什么工具呢？它是一个用于可视化展示 Go Module 依赖关系的工具。
 
-10、
-
 ## 开源项目
 
 1、[benchdraw：通过 CLI 将 Go 的基准测试输出转换为图片](https://github.com/cep21/benchdraw)
