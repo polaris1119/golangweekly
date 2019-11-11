@@ -35,14 +35,14 @@ Proxy 是 golang 实现的高性能 http、https、websocket、tcp、udp、socks
 - tcp代理转发增加了指定出口IP功能。
 - 修复了智能模式某些情况不能准确工作的问题。
 - socks/http(s)/sps监听支持多端口和端口范围了。
-- 
-	参数-p现在可以这样写了： 
 
-	```
+    参数-p现在可以这样写了： 
+
+   ```
    -p ":8081"  监听8081
--p ":8081,:8082"  监听8081和8082
+   -p ":8081,:8082"  监听8081和8082
    -p ":8081,:8082,:9000-9999" 监听8081和8082以及9000,9001至9999，共1002个端口
-	```
+   ```
   
 - 增加了freebsd平台。
 
@@ -134,7 +134,7 @@ golang中time.Sleep是如何实现的，在这背后调度器对time.Sleep又是
 
 挺有意思！
 
-![img](imgs/issue016/tidb-play.png)
+![img](imgs/issue016/tidb-play.gif)
 
 14、[Go语言开源十周年](https://tonybai.com/2019/11/09/go-opensource-10-years/)
 
