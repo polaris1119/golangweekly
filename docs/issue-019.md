@@ -6,7 +6,7 @@
 
 鉴于大部分人可能没法坚持把英文文章看完，因此，周刊中会尽可能推荐优质的中文文章。优秀的英文文章，我们的 GCTT 组织会进行翻译。
 
-![](imgs/issue19/cover.png "题图：栈图示")
+![](imgs/issue019/cover.png "题图：栈图示")
 
 ## 刊首语
 
@@ -118,19 +118,19 @@ Java 转 Go 的是不是很喜欢？
 
 一个为云原生工作负载打造的完全分布式的有关网络和安全的可视平台。
 
-![](imgs/issue19/hubble_arch.png)
+![](imgs/issue019/hubble_arch.png)
 
 5、[slidingwindow](https://github.com/RussellLuo/slidingwindow)
 
 用于分布式限速的滑动窗口算法的Go实现。
 
-![](imgs/issue19/slidingwindow.png)
+![](imgs/issue019/slidingwindow.png)
 
 6、[watch](https://github.com/antonmedv/watch)
 
 使用Go重新实现unix watch命令。
 
-![](imgs/issue19/watch.gif)
+![](imgs/issue019/watch.gif)
 
 7、[clusterlint](https://github.com/digitalocean/clusterlint)
 
@@ -168,7 +168,7 @@ gorm 的中间件，插入后 gorm 即刻拥有缓存。
 
 基于 gtop 和 vtop 的终端图形活动监视器。
 
-![](imgs/issue19/gotop.gif)
+![](imgs/issue019/gotop.gif)
 
 16、[qt](https://github.com/therecipe/qt)
 
@@ -181,6 +181,10 @@ gorm 的中间件，插入后 gorm 即刻拥有缓存。
 18、[rqlite](https://github.com/rqlite/rqlite)
 
 基于 SQLite 的轻量级分布式关系数据库。
+
+19、[ToBeAdmin](https://github.com/fanpei0121/ToBeAdmin)
+
+beego 与 Ant Design Pro Vue 基础权限系统。
 
 ## 资源&&工具
 
@@ -204,7 +208,7 @@ gorm 的中间件，插入后 gorm 即刻拥有缓存。
 
 使用新的 `％w` 动词指令包装和修复错误的 Go 工具。
 
-![](imgs/issue19/errwrap.gif)
+![](imgs/issue019/errwrap.gif)
 
 6、[Golang 程序员开发效率神器汇总！](https://segmentfault.com/a/1190000021155038)
 
