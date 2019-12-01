@@ -210,6 +210,14 @@ gorm 的中间件，插入后 gorm 即刻拥有缓存。
 
 汇总了开发工具、调试工具、网络工具、常用网站和 golang 常用库。
 
+7、2019 年 11 月 30 日北京 Meetup PPT 下载
+
+- [探探长链接项目的Go语言实践](res/探探长链接项目的Go语言实践.pdf)
+- [蚂蚁金服深度剖析Mosn](res/深度剖析Mosn.pdf)
+- [美团构建部署平台解析与Go 的实践](res/美团构建部署平台解析与Go 的实践.pdf)
+- [探探微服务架构演进之路](res/探探微服务架构演进之路.pdf)
+- [Go语言电子表格文档格式标准实践](res/Go语言电子表格文档格式标准实践.pdf)
+
 ## 订阅
 
 这个周刊每周日发布，同步更新在[Go语言中文网](https://studygolang.com/go/weekly)、[微信公众号](https://weixin.sogou.com/weixin?query=Go%E8%AF%AD%E8%A8%80%E4%B8%AD%E6%96%87%E7%BD%91) 和 [今日头条](https://www.toutiao.com/c/user/59903081459/#mid=1586087918877709)。
