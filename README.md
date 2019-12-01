@@ -10,7 +10,9 @@
 
 ## 2019
 
-**十一月**：[第 18 期](docs/issue-018.md):high_brightness: | [第 17 期](docs/issue-017.md) | [第 16 期](docs/issue-016.md) | [第 15 期](docs/issue-015.md)
+**十二月**：[第 19 期](docs/issue-019.md):high_brightness:
+
+**十一月**：[第 18 期](docs/issue-018.md) | [第 17 期](docs/issue-017.md) | [第 16 期](docs/issue-016.md) | [第 15 期](docs/issue-015.md)
 
 **十月**：[第 14 期](docs/issue-014.md) | [第 13 期](docs/issue-013.md) | [第 12 期](docs/issue-012.md) | [第 11 期](docs/issue-011.md)
 
