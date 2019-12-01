@@ -212,13 +212,13 @@ gorm 的中间件，插入后 gorm 即刻拥有缓存。
 
 7、2019 年 11 月 30 日北京 Meetup PPT 下载
 
-- 探探长链接项目的Go语言实践
-- 蚂蚁金服深度剖析Mosn
-- 美团构建部署平台解析与Go 的实践
-- 探探微服务架构演进之路
-- Go语言电子表格文档格式标准实践
+- [探探长链接项目的Go语言实践](res/探探长链接项目的Go语言实践.pdf)
+- [蚂蚁金服深度剖析Mosn](res/深度剖析Mosn.pdf)
+- [美团构建部署平台解析与Go 的实践](res/美团构建部署平台解析与Go 的实践.pdf)
+- [探探微服务架构演进之路](res/探探微服务架构演进之路.pdf)
+- [Go语言电子表格文档格式标准实践](res/Go语言电子表格文档格式标准实践.pdf)
 
-链接: https://pan.baidu.com/s/1v12Q1N2s6-P5JD3gwfmAuQ 提取码: zeip 
+或通过网盘下载: https://pan.baidu.com/s/1v12Q1N2s6-P5JD3gwfmAuQ 提取码: zeip 
 
 ## 订阅
 
