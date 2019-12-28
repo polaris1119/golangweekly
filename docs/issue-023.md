@@ -15,7 +15,7 @@
 
 快过年了，又面临抢票这个难题。这不，GitHub 上这周趋势排行榜 1、2 位都是 12306 相关，不过都是 Python 的，没人用 Go 搞搞呢？
 
-![](/Users/xuxinhua/opensource/golang/golangweekly/docs/imgs/issue023/12306.jpg)
+![](imgs/issue023/12306.jpg)
 
 你抢到回家的车票了吗？反正我是没抢到。
 
