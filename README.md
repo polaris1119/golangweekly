@@ -10,7 +10,7 @@
 
 ## 2020
 
-**一月**：[第 25 期](docs/issue-025.md):high_brightness: | [第 24 期](docs/issue-024.md)
+**一月**：[第 26 期](docs/issue-026.md):high_brightness: | [第 25 期](docs/issue-025.md) | [第 24 期](docs/issue-024.md)
 
 ## 2019
 

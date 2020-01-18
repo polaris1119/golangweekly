@@ -10,7 +10,6 @@
 
 题图：Chime，一个 Mac 的 Go 编辑器，目前还未正式发布。
 
-
 ## 资讯
 
 1、[Go 1.13.6 和 Go 1.12.15 发布](https://forum.golangbridge.org/t/go-1-13-6-and-go-1-12-15-are-released/17031)
