@@ -213,7 +213,7 @@ O'RLY Cover Generator 是模仿书的封面生成器，以 Golang 和 Vue.js 实
 
 系列教程，设计一个框架。
 
-6、[Go 语言设计与实现](https://draveness.me/golang)
+6、[Go 语言设计与实现](https://draveness.me/golang/)
 
 左神出品。本书的主要内容可以分成四个主要部分，分别是编译原理、运行时、基础知识和进阶知识，这四部分几乎可以覆盖 Go 语言从编译到运行的方方面面，让我们对 Go 语言有更加整体和深刻的认识。
 
