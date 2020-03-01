@@ -10,7 +10,9 @@
 
 ## 2020
 
-**二月**：[第 31 期](docs/issue-031.md):high_brightness: | [第 30 期](docs/issue-030.md) | [第 29 期](docs/issue-029.md) | [第 28 期](docs/issue-028.md)
+**三月**：[第 32 期](docs/issue-032.md):high_brightness:
+
+**二月**：[第 31 期](docs/issue-031.md) | [第 30 期](docs/issue-030.md) | [第 29 期](docs/issue-029.md) | [第 28 期](docs/issue-028.md)
 
 **一月**：[第 27 期](docs/issue-027.md) | [第 26 期](docs/issue-026.md) | [第 25 期](docs/issue-025.md) | [第 24 期](docs/issue-024.md)
 
