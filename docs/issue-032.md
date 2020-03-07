@@ -121,7 +121,7 @@ HTTP mock 服务。
 
 Go 语言并行处理库。
 
-6、[gouku](https://github.com/alash3al/goukv)
+6、[goukv](https://github.com/alash3al/goukv)
 
 类似 database/sql 的抽象层，但用于 Key-Value 存储。这里有一篇介绍文章：<https://mp.weixin.qq.com/s/nkQyiVYFe1jQL1G0DkI1RA>。
 
