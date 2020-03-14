@@ -189,4 +189,4 @@ TiDB in Action 是一本重视实操的书，更偏向工具的介绍和使用�
 
 微信搜索"Go语言中文网"或者扫描二维码，即可订阅。
 
-![wechat](https://raw.githubusercontent.com/polaris1119/golangweekly/master/docs/imgs/wechat.png)
+![wechat](imgs/wechat.png)
