@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1592pt" height="386pt" viewBox="0.00 0.00 1592.00 386.00">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 381.998)">
+<title>G</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-381.998 1588,-381.998 1588,4 -4,4"/>
+
+<g id="node1" class="node"><title>n_github_com_google_subcommands</title>
+<g id="a_node1"><a xlink:href="http://pkg.go.dev/github.com/google/subcommands" xlink:title="github.com/google/subcommands\l512 / 15.1KB\l">
+<polygon fill="none" stroke="#8a9107" stroke-width="2" stroke-opacity="0.698039" points="648,-223.998 468,-223.998 468,-187.998 648,-187.998 648,-223.998"/>
+<text text-anchor="start" x="476" y="-208.998" font-family="Times New Roman,serif" font-size="10.00">github.com/google/subcommands</text>
+<text text-anchor="start" x="476" y="-197.998" font-family="Times New Roman,serif" font-size="10.00">512 / 15.1KB</text>
+</a>
+</g>
+</g>
+
+<g id="node2" class="node"><title>n_github_com_loov_goda</title>
+<g id="a_node2"><a xlink:href="http://pkg.go.dev/github.com/loov/goda" xlink:title="github.com/loov/goda\l116 / 3.0KB\l">
+<polygon fill="none" stroke="#910721" stroke-width="2" stroke-opacity="0.698039" points="108,-204.998 0,-204.998 0,-168.998 108,-168.998 108,-204.998"/>
+<text text-anchor="start" x="8" y="-189.998" font-family="Times New Roman,serif" font-size="10.00">github.com/loov/goda</text>
+<text text-anchor="start" x="8" y="-178.998" font-family="Times New Roman,serif" font-size="10.00">116 / 3.0KB</text>
+</a>
+</g>
+</g>
+
+<g id="edge7" class="edge"><title>n_github_com_loov_goda:e-&gt;n_github_com_google_subcommands</title>
+<path fill="none" stroke="#8a9107" stroke-width="2" stroke-opacity="0.698039" d="M108,-186.998C161.666,-186.998 163.77,-228.669 216,-240.998 278.288,-255.703 296.247,-246.618 360,-240.998 394.181,-237.986 431.315,-232.087 464.034,-225.977"/>
+<polygon fill="#8a9107" fill-opacity="0.698039" stroke="#8a9107" stroke-width="2" stroke-opacity="0.698039" points="464.867,-229.382 474.038,-224.078 463.561,-222.505 464.867,-229.382"/>
+</g>
+
+<g id="node3" class="node"><title>n_github_com_loov_goda_cut</title>
+<g id="a_node3"><a xlink:href="http://pkg.go.dev/github.com/loov/goda/cut" xlink:title="github.com/loov/goda/cut\l203 / 4.1KB\l">
+<polygon fill="none" stroke="#679107" stroke-width="2" stroke-opacity="0.698039" points="360,-231.998 216,-231.998 216,-195.998 360,-195.998 360,-231.998"/>
+<text text-anchor="start" x="224" y="-216.998" font-family="Times New Roman,serif" font-size="10.00">github.com/loov/goda/cut</text>
+<text text-anchor="start" x="224" y="-205.998" font-family="Times New Roman,serif" font-size="10.00">203 / 4.1KB</text>
+</a>
+</g>
+</g>
+
+<g id="edge5" class="edge"><title>n_github_com_loov_goda:e-&gt;n_github_com_loov_goda_cut</title>
+<path fill="none" stroke="#679107" stroke-width="2" stroke-opacity="0.698039" d="M108,-186.998C140.189,-186.998 175.274,-191.32 205.784,-196.506"/>
+<polygon fill="#679107" fill-opacity="0.698039" stroke="#679107" stroke-width="2" stroke-opacity="0.698039" points="205.49,-200.008 215.945,-198.292 206.703,-193.113 205.49,-200.008"/>
+</g>
+
+<g id="node4" class="node"><title>n_github_com_loov_goda_exec</title>
+<g id="a_node4"><a xlink:href="http://pkg.go.dev/github.com/loov/goda/exec" xlink:title="github.com/loov/goda/exec\l154 / 3.3KB\l">
+<polygon fill="none" stroke="#2c9107" stroke-width="2" stroke-opacity="0.698039" points="360,-323.998 216,-323.998 216,-287.998 360,-287.998 360,-323.998"/>
+<text text-anchor="start" x="224" y="-308.998" font-family="Times New Roman,serif" font-size="10.00">github.com/loov/goda/exec</text>
+<text text-anchor="start" x="224" y="-297.998" font-family="Times New Roman,serif" font-size="10.00">154 / 3.3KB</text>
+</a>
+</g>
+</g>
+
+<g id="edge6" class="edge"><title>n_github_com_loov_goda:e-&gt;n_github_com_loov_goda_exec</title>
+<path fill="none" stroke="#2c9107" stroke-width="2" stroke-opacity="0.698039" d="M108,-186.998C169.637,-186.998 163.478,-241.741 216,-273.998 221.368,-277.295 227.134,-280.452 232.975,-283.411"/>
+<polygon fill="#2c9107" fill-opacity="0.698039" stroke="#2c9107" stroke-width="2" stroke-opacity="0.698039" points="231.647,-286.657 242.17,-287.888 234.712,-280.363 231.647,-286.657"/>
+</g>
+
+<g id="node5" class="node"><title>n_github_com_loov_goda_graph</title>
+<g id="a_node5"><a xlink:href="http://pkg.go.dev/github.com/loov/goda/graph" xlink:title="github.com/loov/goda/graph\l368 / 8.4KB\l">
+<polygon fill="none" stroke="#910786" stroke-width="2" stroke-opacity="0.698039" points="360,-69.9984 216,-69.9984 216,-33.9984 360,-33.9984 360,-69.9984"/>
+<text text-anchor="start" x="224" y="-54.9984" font-family="Times New Roman,serif" font-size="10.00">github.com/loov/goda/graph</text>
+<text text-anchor="start" x="224" y="-43.9984" font-family="Times New Roman,serif" font-size="10.00">368 / 8.4KB</text>
+</a>
+</g>
+</g>
+
+<g id="edge1" class="edge"><title>n_github_com_loov_goda:e-&gt;n_github_com_loov_goda_graph</title>
+<path fill="none" stroke="#910786" stroke-width="2" stroke-opacity="0.698039" d="M108,-186.998C175.882,-186.998 159.011,-115.881 216,-78.9984 218.308,-77.5049 220.71,-76.0756 223.177,-74.71"/>
+<polygon fill="#910786" fill-opacity="0.698039" stroke="#910786" stroke-width="2" stroke-opacity="0.698039" points="225.014,-77.702 232.334,-70.0426 221.836,-71.4653 225.014,-77.702"/>
+</g>
+
+<g id="node6" class="node"><title>n_github_com_loov_goda_list</title>
+<g id="a_node6"><a xlink:href="http://pkg.go.dev/github.com/loov/goda/list" xlink:title="github.com/loov/goda/list\l65 / 1.4KB\l">
+<polygon fill="none" stroke="#0d0791" stroke-width="2" stroke-opacity="0.698039" points="360,-177.998 216,-177.998 216,-141.998 360,-141.998 360,-177.998"/>
+<text text-anchor="start" x="224" y="-162.998" font-family="Times New Roman,serif" font-size="10.00">github.com/loov/goda/list</text>
+<text text-anchor="start" x="224" y="-151.998" font-family="Times New Roman,serif" font-size="10.00">65 / 1.4KB</text>
+</a>
+</g>
+</g>
+
+<g id="edge2" class="edge"><title>n_github_com_loov_goda:e-&gt;n_github_com_loov_goda_list</title>
+<path fill="none" stroke="#0d0791" stroke-width="2" stroke-opacity="0.698039" d="M108,-186.998C140.189,-186.998 175.274,-182.677 205.784,-177.491"/>
+<polygon fill="#0d0791" fill-opacity="0.698039" stroke="#0d0791" stroke-width="2" stroke-opacity="0.698039" points="206.703,-180.883 215.945,-175.704 205.49,-173.989 206.703,-180.883"/>
+</g>
+
+<g id="node8" class="node"><title>n_github_com_loov_goda_pkgset</title>
+<g id="a_node8"><a xlink:href="http://pkg.go.dev/github.com/loov/goda/pkgset" xlink:title="github.com/loov/goda/pkgset\l782 / 14.8KB\l">
+<polygon fill="none" stroke="#073f91" stroke-width="2" stroke-opacity="0.698039" points="630,-77.9984 486,-77.9984 486,-41.9984 630,-41.9984 630,-77.9984"/>
+<text text-anchor="start" x="494" y="-62.9984" font-family="Times New Roman,serif" font-size="10.00">github.com/loov/goda/pkgset</text>
+<text text-anchor="start" x="494" y="-51.9984" font-family="Times New Roman,serif" font-size="10.00">782 / 14.8KB</text>
+</a>
+</g>
+</g>
+
+<g id="edge8" class="edge"><title>n_github_com_loov_goda:e-&gt;n_github_com_loov_goda_pkgset</title>
+<path fill="none" stroke="#073f91" stroke-width="2" stroke-opacity="0.698039" d="M108,-186.998C194.533,-186.998 139.706,-65.8298 216,-24.9984 309.336,24.9538 437.606,-11.4121 507.196,-38.2569"/>
+<polygon fill="#073f91" fill-opacity="0.698039" stroke="#073f91" stroke-width="2" stroke-opacity="0.698039" points="506.029,-41.5592 516.616,-41.9717 508.597,-35.0472 506.029,-41.5592"/>
+</g>
+
+<g id="node11" class="node"><title>n_github_com_loov_goda_tree</title>
+<g id="a_node11"><a xlink:href="http://pkg.go.dev/github.com/loov/goda/tree" xlink:title="github.com/loov/goda/tree\l101 / 2.2KB\l">
+<polygon fill="none" stroke="#8e9107" stroke-width="2" stroke-opacity="0.698039" points="360,-123.998 216,-123.998 216,-87.9984 360,-87.9984 360,-123.998"/>
+<text text-anchor="start" x="224" y="-108.998" font-family="Times New Roman,serif" font-size="10.00">github.com/loov/goda/tree</text>
+<text text-anchor="start" x="224" y="-97.9984" font-family="Times New Roman,serif" font-size="10.00">101 / 2.2KB</text>
+</a>
+</g>
+</g>
+
+<g id="edge4" class="edge"><title>n_github_com_loov_goda:e-&gt;n_github_com_loov_goda_tree</title>
+<path fill="none" stroke="#8e9107" stroke-width="2" stroke-opacity="0.698039" d="M108,-186.998C161.666,-186.998 166.858,-154.563 216,-132.998 219.872,-131.299 223.888,-129.602 227.95,-127.934"/>
+<polygon fill="#8e9107" fill-opacity="0.698039" stroke="#8e9107" stroke-width="2" stroke-opacity="0.698039" points="229.5,-131.083 237.47,-124.103 226.887,-124.589 229.5,-131.083"/>
+</g>
+
+<g id="node12" class="node"><title>n_github_com_loov_goda_weight</title>
+<g id="a_node12"><a xlink:href="http://pkg.go.dev/github.com/loov/goda/weight" xlink:title="github.com/loov/goda/weight\l276 / 5.7KB\l">
+<polygon fill="none" stroke="#072a91" stroke-width="2" stroke-opacity="0.698039" points="360,-377.998 216,-377.998 216,-341.998 360,-341.998 360,-377.998"/>
+<text text-anchor="start" x="224" y="-362.998" font-family="Times New Roman,serif" font-size="10.00">github.com/loov/goda/weight</text>
+<text text-anchor="start" x="224" y="-351.998" font-family="Times New Roman,serif" font-size="10.00">276 / 5.7KB</text>
+</a>
+</g>
+</g>
+
+<g id="edge3" class="edge"><title>n_github_com_loov_goda:e-&gt;n_github_com_loov_goda_weight</title>
+<path fill="none" stroke="#072a91" stroke-width="2" stroke-opacity="0.698039" d="M108,-186.998C188.713,-186.998 151.68,-284.239 216,-332.998 217.793,-334.358 219.663,-335.656 221.59,-336.895"/>
+<polygon fill="#072a91" fill-opacity="0.698039" stroke="#072a91" stroke-width="2" stroke-opacity="0.698039" points="219.949,-339.988 230.359,-341.955 223.447,-333.925 219.949,-339.988"/>
+</g>
+
+<g id="edge12" class="edge"><title>n_github_com_loov_goda_cut:e-&gt;n_github_com_google_subcommands</title>
+<path fill="none" stroke="#8a9107" stroke-width="2" stroke-opacity="0.698039" d="M360,-213.998C391.813,-213.998 426.493,-212.944 457.764,-211.601"/>
+<polygon fill="#8a9107" fill-opacity="0.698039" stroke="#8a9107" stroke-width="2" stroke-opacity="0.698039" points="457.955,-215.096 467.79,-211.155 457.644,-208.103 457.955,-215.096"/>
+</g>
+
+<g id="node7" class="node"><title>n_github_com_loov_goda_memory</title>
+<g id="a_node7"><a xlink:href="http://pkg.go.dev/github.com/loov/goda/memory" xlink:title="github.com/loov/goda/memory\l35 / 0.7KB\l">
+<polygon fill="none" stroke="#079120" stroke-width="2" stroke-opacity="0.698039" points="918,-326.998 774,-326.998 774,-290.998 918,-290.998 918,-326.998"/>
+<text text-anchor="start" x="782" y="-311.998" font-family="Times New Roman,serif" font-size="10.00">github.com/loov/goda/memory</text>
+<text text-anchor="start" x="782" y="-300.998" font-family="Times New Roman,serif" font-size="10.00">35 / 0.7KB</text>
+</a>
+</g>
+</g>
+
+<g id="edge13" class="edge"><title>n_github_com_loov_goda_cut:e-&gt;n_github_com_loov_goda_memory</title>
+<path fill="none" stroke="#079120" stroke-width="2" stroke-opacity="0.698039" d="M360,-213.998C413.274,-213.998 416.818,-251.217 468,-265.998 567.183,-294.642 686.212,-304.33 763.621,-307.537"/>
+<polygon fill="#079120" fill-opacity="0.698039" stroke="#079120" stroke-width="2" stroke-opacity="0.698039" points="763.662,-311.041 773.79,-307.931 763.933,-304.046 763.662,-311.041"/>
+</g>
+
+<g id="edge9" class="edge"><title>n_github_com_loov_goda_cut:e-&gt;n_github_com_loov_goda_pkgset</title>
+<path fill="none" stroke="#073f91" stroke-width="2" stroke-opacity="0.698039" d="M360,-213.998C422.198,-213.998 418.865,-163.134 468,-124.998 485.891,-111.112 506.265,-96.171 523,-84.1191"/>
+<polygon fill="#073f91" fill-opacity="0.698039" stroke="#073f91" stroke-width="2" stroke-opacity="0.698039" points="525.303,-86.7744 531.388,-78.1009 521.222,-81.087 525.303,-86.7744"/>
+</g>
+
+<g id="node10" class="node"><title>n_github_com_loov_goda_templates</title>
+<g id="a_node10"><a xlink:href="http://pkg.go.dev/github.com/loov/goda/templates" xlink:title="github.com/loov/goda/templates\l196 / 3.8KB\l">
+<polygon fill="none" stroke="#073e91" stroke-width="2" stroke-opacity="0.698039" points="648,-169.998 468,-169.998 468,-133.998 648,-133.998 648,-169.998"/>
+<text text-anchor="start" x="476" y="-154.998" font-family="Times New Roman,serif" font-size="10.00">github.com/loov/goda/templates</text>
+<text text-anchor="start" x="476" y="-143.998" font-family="Times New Roman,serif" font-size="10.00">196 / 3.8KB</text>
+</a>
+</g>
+</g>
+
+<g id="edge11" class="edge"><title>n_github_com_loov_goda_cut:e-&gt;n_github_com_loov_goda_templates</title>
+<path fill="none" stroke="#073e91" stroke-width="2" stroke-opacity="0.698039" d="M360,-213.998C410.458,-213.998 419.856,-194.101 468,-178.998 474.314,-177.018 480.888,-174.979 487.476,-172.952"/>
+<polygon fill="#073e91" fill-opacity="0.698039" stroke="#073e91" stroke-width="2" stroke-opacity="0.698039" points="488.575,-176.276 497.11,-169.998 486.523,-169.583 488.575,-176.276"/>
+</g>
+
+<g id="node16" class="node"><title>n_golang_org_x_tools_go_packages</title>
+<g id="a_node16"><a xlink:href="http://pkg.go.dev/golang.org/x/tools/go/packages" xlink:title="golang.org/x/tools/go/packages\l2832 / 91.7KB\l">
+<polygon fill="none" stroke="#07912d" stroke-width="2" stroke-opacity="0.698039" points="918,-127.998 774,-127.998 774,-91.9984 918,-91.9984 918,-127.998"/>
+<text text-anchor="start" x="782" y="-112.998" font-family="Times New Roman,serif" font-size="10.00">golang.org/x/tools/go/packages</text>
+<text text-anchor="start" x="782" y="-101.998" font-family="Times New Roman,serif" font-size="10.00">2832 / 91.7KB</text>
+</a>
+</g>
+</g>
+
+<g id="edge10" class="edge"><title>n_github_com_loov_goda_cut:e-&gt;n_golang_org_x_tools_go_packages</title>
+<path fill="none" stroke="#07912d" stroke-width="2" stroke-opacity="0.698039" d="M360,-213.998C408.737,-213.998 419.447,-228.76 468,-232.998 547.697,-239.955 571.095,-255.035 648,-232.998 714.845,-213.844 781.031,-164.677 817.11,-134.627"/>
+<polygon fill="#07912d" fill-opacity="0.698039" stroke="#07912d" stroke-width="2" stroke-opacity="0.698039" points="819.386,-137.285 824.766,-128.158 814.869,-131.938 819.386,-137.285"/>
+</g>
+
+<g id="edge14" class="edge"><title>n_github_com_loov_goda_exec:e-&gt;n_github_com_google_subcommands</title>
+<path fill="none" stroke="#8a9107" stroke-width="2" stroke-opacity="0.698039" d="M360,-305.998C426.224,-305.998 492.73,-260.511 529.014,-230.893"/>
+<polygon fill="#8a9107" fill-opacity="0.698039" stroke="#8a9107" stroke-width="2" stroke-opacity="0.698039" points="531.708,-233.203 537.142,-224.108 527.222,-227.829 531.708,-233.203"/>
+</g>
+
+<g id="edge16" class="edge"><title>n_github_com_loov_goda_exec:e-&gt;n_github_com_loov_goda_memory</title>
+<path fill="none" stroke="#079120" stroke-width="2" stroke-opacity="0.698039" d="M360,-305.998C501.972,-305.998 667.316,-307.3 763.661,-308.188"/>
+<polygon fill="#079120" fill-opacity="0.698039" stroke="#079120" stroke-width="2" stroke-opacity="0.698039" points="763.881,-311.69 773.913,-308.284 763.946,-304.691 763.881,-311.69"/>
+</g>
+
+<g id="edge15" class="edge"><title>n_github_com_loov_goda_exec:e-&gt;n_github_com_loov_goda_templates</title>
+<path fill="none" stroke="#073e91" stroke-width="2" stroke-opacity="0.698039" d="M360,-305.998C434.094,-305.998 406.035,-219.623 468,-178.998 470.405,-177.421 472.907,-175.933 475.479,-174.529"/>
+<polygon fill="#073e91" fill-opacity="0.698039" stroke="#073e91" stroke-width="2" stroke-opacity="0.698039" points="477.061,-177.651 484.464,-170.072 473.95,-171.381 477.061,-177.651"/>
+</g>
+
+<g id="edge17" class="edge"><title>n_github_com_loov_goda_graph:e-&gt;n_github_com_google_subcommands</title>
+<path fill="none" stroke="#8a9107" stroke-width="2" stroke-opacity="0.698039" d="M360,-51.9984C434.094,-51.9984 406.035,-138.374 468,-178.998 470.405,-180.575 472.907,-182.064 475.479,-183.468"/>
+<polygon fill="#8a9107" fill-opacity="0.698039" stroke="#8a9107" stroke-width="2" stroke-opacity="0.698039" points="473.95,-186.616 484.464,-187.925 477.061,-180.345 473.95,-186.616"/>
+</g>
+
+<g id="edge19" class="edge"><title>n_github_com_loov_goda_graph:e-&gt;n_github_com_loov_goda_pkgset</title>
+<path fill="none" stroke="#073f91" stroke-width="2" stroke-opacity="0.698039" d="M360,-51.9984C398.008,-51.9984 440.107,-53.5035 475.598,-55.208"/>
+<polygon fill="#073f91" fill-opacity="0.698039" stroke="#073f91" stroke-width="2" stroke-opacity="0.698039" points="475.744,-58.7194 485.904,-55.7173 476.089,-51.7279 475.744,-58.7194"/>
+</g>
+
+<g id="edge18" class="edge"><title>n_github_com_loov_goda_graph:e-&gt;n_github_com_loov_goda_templates</title>
+<path fill="none" stroke="#073e91" stroke-width="2" stroke-opacity="0.698039" d="M360,-51.9984C393.601,-51.9984 473.486,-98.8396 520.561,-128.405"/>
+<polygon fill="#073e91" fill-opacity="0.698039" stroke="#073e91" stroke-width="2" stroke-opacity="0.698039" points="518.911,-131.502 529.233,-133.889 522.652,-125.586 518.911,-131.502"/>
+</g>
+
+<g id="edge20" class="edge"><title>n_github_com_loov_goda_graph:e-&gt;n_golang_org_x_tools_go_packages</title>
+<path fill="none" stroke="#07912d" stroke-width="2" stroke-opacity="0.698039" d="M360,-51.9984C408.737,-51.9984 419.447,-37.2366 468,-32.9984 547.697,-26.0414 569.873,-15.7906 648,-32.9984 699.656,-44.3758 706.572,-64.164 756,-82.9984 761.092,-84.9388 766.389,-86.8369 771.747,-88.6701"/>
+<polygon fill="#07912d" fill-opacity="0.698039" stroke="#07912d" stroke-width="2" stroke-opacity="0.698039" points="770.835,-92.0551 781.428,-91.8948 773.047,-85.4138 770.835,-92.0551"/>
+</g>
+
+<g id="edge21" class="edge"><title>n_github_com_loov_goda_list:e-&gt;n_github_com_google_subcommands</title>
+<path fill="none" stroke="#8a9107" stroke-width="2" stroke-opacity="0.698039" d="M360,-159.998C383.968,-159.998 438.375,-173.074 483.952,-185.282"/>
+<polygon fill="#8a9107" fill-opacity="0.698039" stroke="#8a9107" stroke-width="2" stroke-opacity="0.698039" points="483.259,-188.72 493.826,-187.95 485.085,-181.963 483.259,-188.72"/>
+</g>
+
+<g id="edge22" class="edge"><title>n_github_com_loov_goda_list:e-&gt;n_github_com_loov_goda_pkgset</title>
+<path fill="none" stroke="#073f91" stroke-width="2" stroke-opacity="0.698039" d="M360,-159.998C393.601,-159.998 473.486,-113.157 520.561,-83.5916"/>
+<polygon fill="#073f91" fill-opacity="0.698039" stroke="#073f91" stroke-width="2" stroke-opacity="0.698039" points="522.652,-86.4106 529.233,-78.1076 518.911,-80.4943 522.652,-86.4106"/>
+</g>
+
+<g id="edge23" class="edge"><title>n_github_com_loov_goda_list:e-&gt;n_github_com_loov_goda_templates</title>
+<path fill="none" stroke="#073e91" stroke-width="2" stroke-opacity="0.698039" d="M360,-159.998C391.813,-159.998 426.493,-158.944 457.764,-157.601"/>
+<polygon fill="#073e91" fill-opacity="0.698039" stroke="#073e91" stroke-width="2" stroke-opacity="0.698039" points="457.955,-161.096 467.79,-157.155 457.644,-154.103 457.955,-161.096"/>
+</g>
+
+<g id="node9" class="node"><title>n_github_com_loov_goda_pkgset_ast</title>
+<g id="a_node9"><a xlink:href="http://pkg.go.dev/github.com/loov/goda/pkgset/ast" xlink:title="github.com/loov/goda/pkgset/ast\l306 / 5.7KB\l">
+<polygon fill="none" stroke="#07917c" stroke-width="2" stroke-opacity="0.698039" points="936,-73.9984 756,-73.9984 756,-37.9984 936,-37.9984 936,-73.9984"/>
+<text text-anchor="start" x="764" y="-58.9984" font-family="Times New Roman,serif" font-size="10.00">github.com/loov/goda/pkgset/ast</text>
+<text text-anchor="start" x="764" y="-47.9984" font-family="Times New Roman,serif" font-size="10.00">306 / 5.7KB</text>
+</a>
+</g>
+</g>
+
+<g id="edge25" class="edge"><title>n_github_com_loov_goda_pkgset:e-&gt;n_github_com_loov_goda_pkgset_ast</title>
+<path fill="none" stroke="#07917c" stroke-width="2" stroke-opacity="0.698039" d="M631,-59.9984C668.532,-59.9984 709.761,-59.3757 745.926,-58.6217"/>
+<polygon fill="#07917c" fill-opacity="0.698039" stroke="#07917c" stroke-width="2" stroke-opacity="0.698039" points="746.063,-62.1197 755.985,-58.406 745.913,-55.1213 746.063,-62.1197"/>
+</g>
+
+<g id="edge24" class="edge"><title>n_github_com_loov_goda_pkgset:e-&gt;n_golang_org_x_tools_go_packages</title>
+<path fill="none" stroke="#07912d" stroke-width="2" stroke-opacity="0.698039" d="M631,-59.9984C658.184,-59.9984 721.412,-75.4908 772.135,-89.2282"/>
+<polygon fill="#07912d" fill-opacity="0.698039" stroke="#07912d" stroke-width="2" stroke-opacity="0.698039" points="771.529,-92.6909 782.098,-91.9472 773.372,-85.9379 771.529,-92.6909"/>
+</g>
+
+<g id="edge26" class="edge"><title>n_github_com_loov_goda_templates:e-&gt;n_github_com_loov_goda_memory</title>
+<path fill="none" stroke="#079120" stroke-width="2" stroke-opacity="0.698039" d="M648,-151.998C730.649,-151.998 798.629,-237.555 828.558,-282.352"/>
+<polygon fill="#079120" fill-opacity="0.698039" stroke="#079120" stroke-width="2" stroke-opacity="0.698039" points="825.798,-284.527 834.194,-290.988 831.66,-280.701 825.798,-284.527"/>
+</g>
+
+<g id="edge27" class="edge"><title>n_github_com_loov_goda_templates:e-&gt;n_golang_org_x_tools_go_packages</title>
+<path fill="none" stroke="#07912d" stroke-width="2" stroke-opacity="0.698039" d="M648,-151.998C692.942,-151.998 742.409,-141.414 780.531,-130.871"/>
+<polygon fill="#07912d" fill-opacity="0.698039" stroke="#07912d" stroke-width="2" stroke-opacity="0.698039" points="781.802,-134.149 790.468,-128.054 779.892,-127.415 781.802,-134.149"/>
+</g>
+
+<g id="edge30" class="edge"><title>n_github_com_loov_goda_tree:e-&gt;n_github_com_google_subcommands</title>
+<path fill="none" stroke="#8a9107" stroke-width="2" stroke-opacity="0.698039" d="M360,-105.998C417.937,-105.998 415.693,-154.087 468,-178.998 471.854,-180.834 475.861,-182.578 479.949,-184.231"/>
+<polygon fill="#8a9107" fill-opacity="0.698039" stroke="#8a9107" stroke-width="2" stroke-opacity="0.698039" points="479.008,-187.618 489.598,-187.919 481.507,-181.079 479.008,-187.618"/>
+</g>
+
+<g id="edge28" class="edge"><title>n_github_com_loov_goda_tree:e-&gt;n_github_com_loov_goda_pkgset</title>
+<path fill="none" stroke="#073f91" stroke-width="2" stroke-opacity="0.698039" d="M360,-105.998C407.433,-105.998 459.647,-93.1958 498.396,-81.0988"/>
+<polygon fill="#073f91" fill-opacity="0.698039" stroke="#073f91" stroke-width="2" stroke-opacity="0.698039" points="499.487,-84.4248 507.947,-78.0468 497.356,-77.7571 499.487,-84.4248"/>
+</g>
+
+<g id="edge29" class="edge"><title>n_github_com_loov_goda_tree:e-&gt;n_github_com_loov_goda_templates</title>
+<path fill="none" stroke="#073e91" stroke-width="2" stroke-opacity="0.698039" d="M360,-105.998C407.433,-105.998 459.647,-118.801 498.396,-130.898"/>
+<polygon fill="#073e91" fill-opacity="0.698039" stroke="#073e91" stroke-width="2" stroke-opacity="0.698039" points="497.356,-134.24 507.947,-133.95 499.487,-127.572 497.356,-134.24"/>
+</g>
+
+<g id="edge31" class="edge"><title>n_github_com_loov_goda_tree:e-&gt;n_golang_org_x_tools_go_packages</title>
+<path fill="none" stroke="#07912d" stroke-width="2" stroke-opacity="0.698039" d="M360,-105.998C501.974,-105.998 667.317,-107.733 763.661,-108.918"/>
+<polygon fill="#07912d" fill-opacity="0.698039" stroke="#07912d" stroke-width="2" stroke-opacity="0.698039" points="763.871,-112.421 773.914,-109.045 763.958,-105.421 763.871,-112.421"/>
+</g>
+
+<g id="edge32" class="edge"><title>n_github_com_loov_goda_weight:e-&gt;n_github_com_google_subcommands</title>
+<path fill="none" stroke="#8a9107" stroke-width="2" stroke-opacity="0.698039" d="M360,-359.998C441.633,-359.998 509.633,-276.905 539.982,-232.791"/>
+<polygon fill="#8a9107" fill-opacity="0.698039" stroke="#8a9107" stroke-width="2" stroke-opacity="0.698039" points="543.037,-234.521 545.711,-224.269 537.227,-230.616 543.037,-234.521"/>
+</g>
+
+<g id="edge33" class="edge"><title>n_github_com_loov_goda_weight:e-&gt;n_github_com_loov_goda_memory</title>
+<path fill="none" stroke="#079120" stroke-width="2" stroke-opacity="0.698039" d="M360,-359.998C502.692,-359.998 667.71,-337.894 763.812,-322.79"/>
+<polygon fill="#079120" fill-opacity="0.698039" stroke="#079120" stroke-width="2" stroke-opacity="0.698039" points="764.424,-326.237 773.752,-321.214 763.328,-319.323 764.424,-326.237"/>
+</g>
+
+<g id="node13" class="node"><title>n_golang_org_x_tools_go_gcexportdata</title>
+<g id="a_node13"><a xlink:href="http://pkg.go.dev/golang.org/x/tools/go/gcexportdata" xlink:title="golang.org/x/tools/go/gcexportdata\l182 / 6.2KB\l">
+<polygon fill="none" stroke="#910775" stroke-width="2" stroke-opacity="0.698039" points="1242,-204.998 1062,-204.998 1062,-168.998 1242,-168.998 1242,-204.998"/>
+<text text-anchor="start" x="1070" y="-189.998" font-family="Times New Roman,serif" font-size="10.00">golang.org/x/tools/go/gcexportdata</text>
+<text text-anchor="start" x="1070" y="-178.998" font-family="Times New Roman,serif" font-size="10.00">182 / 6.2KB</text>
+</a>
+</g>
+</g>
+
+<g id="node14" class="node"><title>n_golang_org_x_tools_go_internal_gcimporter</title>
+<g id="a_node14"><a xlink:href="http://pkg.go.dev/golang.org/x/tools/go/internal/gcimporter" xlink:title="golang.org/x/tools/go/internal/gcimporter\l4444 / 104.0KB\l">
+<polygon fill="none" stroke="#0c9107" stroke-width="2" stroke-opacity="0.698039" points="1584,-204.998 1368,-204.998 1368,-168.998 1584,-168.998 1584,-204.998"/>
+<text text-anchor="start" x="1376" y="-189.998" font-family="Times New Roman,serif" font-size="10.00">golang.org/x/tools/go/internal/gcimporter</text>
+<text text-anchor="start" x="1376" y="-178.998" font-family="Times New Roman,serif" font-size="10.00">4444 / 104.0KB</text>
+</a>
+</g>
+</g>
+
+<g id="edge34" class="edge"><title>n_golang_org_x_tools_go_gcexportdata:e-&gt;n_golang_org_x_tools_go_internal_gcimporter</title>
+<path fill="none" stroke="#0c9107" stroke-width="2" stroke-opacity="0.698039" d="M1243,-186.998C1280.28,-186.998 1320.92,-186.998 1357.63,-186.998"/>
+<polygon fill="#0c9107" fill-opacity="0.698039" stroke="#0c9107" stroke-width="2" stroke-opacity="0.698039" points="1357.87,-190.498 1367.87,-186.998 1357.87,-183.498 1357.87,-190.498"/>
+</g>
+
+<g id="node15" class="node"><title>n_golang_org_x_tools_go_internal_packagesdriver</title>
+<g id="a_node15"><a xlink:href="http://pkg.go.dev/golang.org/x/tools/go/internal/packagesdriver" xlink:title="golang.org/x/tools/go/internal/packagesdriver\l118 / 3.2KB\l">
+<polygon fill="none" stroke="#849107" stroke-width="2" stroke-opacity="0.698039" points="1260,-150.998 1044,-150.998 1044,-114.998 1260,-114.998 1260,-150.998"/>
+<text text-anchor="start" x="1052" y="-135.998" font-family="Times New Roman,serif" font-size="10.00">golang.org/x/tools/go/internal/packagesdriver</text>
+<text text-anchor="start" x="1052" y="-124.998" font-family="Times New Roman,serif" font-size="10.00">118 / 3.2KB</text>
+</a>
+</g>
+</g>
+
+<g id="node17" class="node"><title>n_golang_org_x_tools_internal_gocommand</title>
+<g id="a_node17"><a xlink:href="http://pkg.go.dev/golang.org/x/tools/internal/gocommand" xlink:title="golang.org/x/tools/internal/gocommand\l121 / 3.5KB\l">
+<polygon fill="none" stroke="#079170" stroke-width="2" stroke-opacity="0.698039" points="1566,-127.998 1386,-127.998 1386,-91.9984 1566,-91.9984 1566,-127.998"/>
+<text text-anchor="start" x="1394" y="-112.998" font-family="Times New Roman,serif" font-size="10.00">golang.org/x/tools/internal/gocommand</text>
+<text text-anchor="start" x="1394" y="-101.998" font-family="Times New Roman,serif" font-size="10.00">121 / 3.5KB</text>
+</a>
+</g>
+</g>
+
+<g id="edge35" class="edge"><title>n_golang_org_x_tools_go_internal_packagesdriver:e-&gt;n_golang_org_x_tools_internal_gocommand</title>
+<path fill="none" stroke="#079170" stroke-width="2" stroke-opacity="0.698039" d="M1260,-132.998C1297.92,-132.998 1339.38,-129.418 1375.69,-125.083"/>
+<polygon fill="#079170" fill-opacity="0.698039" stroke="#079170" stroke-width="2" stroke-opacity="0.698039" points="1376.29,-128.535 1385.79,-123.842 1375.44,-121.588 1376.29,-128.535"/>
+</g>
+
+<g id="edge36" class="edge"><title>n_golang_org_x_tools_go_packages:e-&gt;n_golang_org_x_tools_go_gcexportdata</title>
+<path fill="none" stroke="#910775" stroke-width="2" stroke-opacity="0.698039" d="M919,-109.998C978.835,-109.998 987.088,-141.526 1044,-159.998 1050.55,-162.124 1057.37,-164.186 1064.26,-166.158"/>
+<polygon fill="#910775" fill-opacity="0.698039" stroke="#910775" stroke-width="2" stroke-opacity="0.698039" points="1063.79,-169.663 1074.37,-168.983 1065.68,-162.921 1063.79,-169.663"/>
+</g>
+
+<g id="edge37" class="edge"><title>n_golang_org_x_tools_go_packages:e-&gt;n_golang_org_x_tools_go_internal_packagesdriver</title>
+<path fill="none" stroke="#849107" stroke-width="2" stroke-opacity="0.698039" d="M919,-109.998C956.367,-109.998 996.955,-112.99 1033.58,-116.815"/>
+<polygon fill="#849107" fill-opacity="0.698039" stroke="#849107" stroke-width="2" stroke-opacity="0.698039" points="1033.48,-120.324 1043.8,-117.914 1034.23,-113.364 1033.48,-120.324"/>
+</g>
+
+<g id="edge39" class="edge"><title>n_golang_org_x_tools_go_packages:e-&gt;n_golang_org_x_tools_internal_gocommand</title>
+<path fill="none" stroke="#079170" stroke-width="2" stroke-opacity="0.698039" d="M919,-109.998C974.584,-109.998 988.423,-106.887 1044,-105.998 1139.99,-104.463 1164,-105.105 1260,-105.998 1297.79,-106.35 1339.31,-107.049 1375.71,-107.766"/>
+<polygon fill="#079170" fill-opacity="0.698039" stroke="#079170" stroke-width="2" stroke-opacity="0.698039" points="1375.76,-111.267 1385.83,-107.968 1375.9,-104.269 1375.76,-111.267"/>
+</g>
+
+<g id="node18" class="node"><title>n_golang_org_x_tools_internal_packagesinternal</title>
+<g id="a_node18"><a xlink:href="http://pkg.go.dev/golang.org/x/tools/internal/packagesinternal" xlink:title="golang.org/x/tools/internal/packagesinternal\l27 / 1.0KB\l">
+<polygon fill="none" stroke="#6f9107" stroke-width="2" stroke-opacity="0.698039" points="1260,-58.9984 1044,-58.9984 1044,-22.9984 1260,-22.9984 1260,-58.9984"/>
+<text text-anchor="start" x="1052" y="-43.9984" font-family="Times New Roman,serif" font-size="10.00">golang.org/x/tools/internal/packagesinternal</text>
+<text text-anchor="start" x="1052" y="-32.9984" font-family="Times New Roman,serif" font-size="10.00">27 / 1.0KB</text>
+</a>
+</g>
+</g>
+
+<g id="edge38" class="edge"><title>n_golang_org_x_tools_go_packages:e-&gt;n_golang_org_x_tools_internal_packagesinternal</title>
+<path fill="none" stroke="#6f9107" stroke-width="2" stroke-opacity="0.698039" d="M919,-109.998C920.065,-109.998 1012.99,-82.2752 1080.9,-61.9743"/>
+<polygon fill="#6f9107" fill-opacity="0.698039" stroke="#6f9107" stroke-width="2" stroke-opacity="0.698039" points="1082.15,-65.2552 1090.72,-59.0372 1080.14,-58.5486 1082.15,-65.2552"/>
+</g>
+</g>
+</svg>
