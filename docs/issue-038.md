@@ -126,8 +126,6 @@ Go 语言实现的聊天室程序。
 
 TalariaDB 是 Presto 的分布式，高可用性和低延迟时间序列数据库。Go 语言实现的时间序列数据库还真是多。
 
-10、
-
 ## 资源&&工具 
 
 1、[设计插件式的地道的 Go 应用](https://www.youtube.com/watch?v=qerWv9JTlo8)
