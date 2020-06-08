@@ -18,7 +18,7 @@
 
 2、[GoLand 2020.2 抢先体验计划已开放](https://blog.jetbrains.com/go/2020/05/29/goland-2020-2-eap-is-open/)
 
-GoLang 是Go IDE，其 EAP 版本免费使用 30 天。该 EAP 具有一些新功能，重构和插件。
+GoLand 是 Go IDE，其 EAP 版本免费使用 30 天。该 EAP 具有一些新功能，重构和插件。
 
 3、[Oragono 2.1 发布：Go 语言编写的现代 IRC 服务器](https://github.com/oragono/oragono)
 
