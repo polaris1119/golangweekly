@@ -140,7 +140,7 @@ Shamir 私密共享算法的接口。提供了在线的工具：<https://simon-f
 
 反射与元编程。
 
-、[geek-life](https://github.com/ajaxray/geek-life)
+2、[geek-life](https://github.com/ajaxray/geek-life)
 
 Go 实现的为 geek 准备的 todo list/task manager 工具。
 
@@ -152,7 +152,7 @@ Kubernetes 多集群部署服务。
 
 4、[电子书: Go 标准库之旅](https://blasrodri.github.io/spaceship-go-gh-pages/)
 
-目前包括的库还不错。
+目前包括的库还不多。
 
 ![](imgs/issue048/spaceship.svg)
 
