@@ -10,7 +10,7 @@
 
 ## 2020
 
-**八月**：[第 54 期](docs/issue-054.md):high_brightness:
+**八月**：[第 55 期](docs/issue-055.md):high_brightness: | [第 54 期](docs/issue-054.md)
 
 **七月**：[第 53 期](docs/issue-053.md) | [第 52 期](docs/issue-052.md) | [第 51 期](docs/issue-051.md) | [第 50 期](docs/issue-050.md)
 
