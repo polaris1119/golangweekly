@@ -102,7 +102,7 @@ GTK3 的 Go 绑定。
 
 6、[selfupdate](https://github.com/minio/selfupdate)
 
-支持go应用自升级的包。
+支持 Go 应用自升级的包。
 
 7、[elsa](https://github.com/elsaland/elsa)
 
