@@ -168,13 +168,13 @@ SSL 证书验证工具 cassler。
 
 检查 DNS 服务器的数据包丢失和延迟问题。
 
-7、[goshs](https://github.com/patrickhener/goshs)
+9、[goshs](https://github.com/patrickhener/goshs)
 
 Go 语言编写，替代 Python 的 SimpleHTTPServer，具有许多功能和出色的设计。
 
 ![](imgs/issue066/goshs.png)
 
-8、[pixlet](https://github.com/tidbyt/pixlet)
+10、[pixlet](https://github.com/tidbyt/pixlet)
 
 为基于像素的显示器构建应用程序。
 
