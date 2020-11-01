@@ -40,6 +40,10 @@
 
 这是一个很小但有用的版本。
 
+7、[pkg.go.dev 新页面设计预览](https://beta.pkg.go.dev/net/http)
+
+页面改了，不知道设计改了没？有空了解下。
+
 ## 文章
 
 1、[闲聊极客时间的直播：现场翻车了？](https://mp.weixin.qq.com/s/MKAS-fa24e6TMVWoannaZA)
@@ -144,6 +148,10 @@ Harmony 是用于与 Discord API 进行交互的 Go 模块。
 
 Go 简单的进度条库。
 
+14、[rod](https://github.com/go-rod/rod)
+
+Go 实现浏览器审查工具驱动。
+
 ## 资源&&工具
 
 1、[Go Time 153 期](https://changelog.com/gotime/153)
@@ -180,7 +188,7 @@ Go 简单的进度条库。
 
 9、[go-wasm](https://github.com/JohnStarich/go-wasm)
 
-用于 Go 的浏览器内置 IDE。在线地址：<https://go-wasm.johnstarich.com/>。
+用于 Go 的浏览器内置 IDE，即使用 WASM 实现 Go 在线编译。在线地址：<https://go-wasm.johnstarich.com/>。
 
 10、[fyne-theme-generator](https://github.com/lusingander/fyne-theme-generator)
 
