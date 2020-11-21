@@ -137,6 +137,10 @@ Apache H2 Go SQL Driver。
 
 最小体积的发行版 k8s。
 
+8、[gwda](https://github.com/electricbubble/gwda)
+
+用 Golang 实现 appium/WebDriverAgent 的客户端库，使得 Gopher 也可以编写代码来控制 iOS iPadOS 设备的各种操作。
+
 ## 资源&&工具
 
 1、[go-getter](https://github.com/hashicorp/go-getter)
