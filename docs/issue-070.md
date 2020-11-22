@@ -29,8 +29,8 @@ func (s *Stats) Snapshot() map[string]int {
 }
 
 func (s *Stats) Add(name string, num int) {
-    s.Lock()
-    defer s.Unlock()
+    s.mutex.Lock()
+    defer s.mutex.Unlock()
     s.counters[name] = num
 }
 ```
