@@ -10,7 +10,9 @@
 
 ## 2020
 
-**十一月**：[第 71 期](docs/issue-071.md):high_brightness: | [第 70 期](docs/issue-070.md) | [第 69 期](docs/issue-069.md) | [第 68 期](docs/issue-068.md) | [第 67 期](docs/issue-067.md)
+**十二月**：[第 72 期](docs/issue-072.md):high_brightness:
+
+**十一月**：[第 71 期](docs/issue-071.md) | [第 70 期](docs/issue-070.md) | [第 69 期](docs/issue-069.md) | [第 68 期](docs/issue-068.md) | [第 67 期](docs/issue-067.md)
 
 **十月**：[第 66 期](docs/issue-066.md) | [第 65 期](docs/issue-065.md) | [第 64 期](docs/issue-064.md) | [第 63 期](docs/issue-063.md)
 
