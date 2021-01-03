@@ -8,9 +8,13 @@
 
 ![](docs/imgs/wechat.png)
 
+## 2021
+
+**一月**：[第 76 期](docs/issue-076.md):high_brightness:
+
 ## 2020
 
-**十二月**：[第 75 期](docs/issue-075.md):high_brightness: | [第 74 期](docs/issue-074.md) | [第 73 期](docs/issue-073.md) | [第 72 期](docs/issue-072.md)
+**十二月**：[第 75 期](docs/issue-075.md) | [第 74 期](docs/issue-074.md) | [第 73 期](docs/issue-073.md) | [第 72 期](docs/issue-072.md)
 
 **十一月**：[第 71 期](docs/issue-071.md) | [第 70 期](docs/issue-070.md) | [第 69 期](docs/issue-069.md) | [第 68 期](docs/issue-068.md) | [第 67 期](docs/issue-067.md)
 
