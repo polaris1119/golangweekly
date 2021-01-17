@@ -10,7 +10,7 @@
 
 ## 2021
 
-**一月**：[第 76 期](docs/issue-076.md):high_brightness:
+**一月**：[第 78 期](docs/issue-078.md):high_brightness: | [第 77 期](docs/issue-077.md) | [第 76 期](docs/issue-076.md)
 
 ## 2020
 
