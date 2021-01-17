@@ -200,6 +200,10 @@ Go 编写的 git 的 semver 插件。
 
 用于查找 Go 依赖包中漏洞的工具。
 
+12、[swag](https://github.com/zc2638/swag)
+
+一个规范且完整的框架，用于生成、描述、调用和可视化 RESTful 风格的 Web 服务。这里有一篇介绍文章：<https://studygolang.com/topics/12949>。
+
 ## 订阅
 
 这个周刊每周日发布，同步更新在[Go语言中文网](https://studygolang.com/go/weekly)和[微信公众号](https://weixin.sogou.com/weixin?query=Go%E8%AF%AD%E8%A8%80%E4%B8%AD%E6%96%87%E7%BD%91)。
