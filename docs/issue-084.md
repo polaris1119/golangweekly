@@ -6,7 +6,7 @@
 
 鉴于一些人可能没法坚持把英文文章看完，因此，周刊中会尽可能推荐优质的中文文章。优秀的英文文章，我们的 GCTT 组织会进行翻译。
 
-![](imgs/issue084/cover.jpg)
+![](https://raw.githubusercontent.com/polaris1119/golangweekly/master/docs/imgs/issue084/cover.jpg)
 
 题图：Go is not easy language
 
@@ -155,6 +155,10 @@ Javascript 的 lodash 函数库的 Go 移植。
 
 golang os.File 的加密替换文件，存储的文件将具有 768 位加密。
 
+9、[iouring-go](https://github.com/Iceber/iouring-go)
+
+基于 Linux 5.1 新增的异步接口 io_uring ，结合 golang 的异步机制实现的易用的异步 IO 框架。[作者自荐](https://github.com/polaris1119/golangweekly/issues/32)。
+
 ## 资源&&工具
 
 1、[mubeng](https://github.com/kitabisa/mubeng)
@@ -165,7 +169,7 @@ golang os.File 的加密替换文件，存储的文件将具有 768 位加密。
 
 将源码转换为图片的命令行工具。
 
-![](imgs/issue084/germanium.png)
+![](https://raw.githubusercontent.com/polaris1119/golangweekly/master/docs/imgs/issue084/germanium.png)
 
 3、[油管视频](https://www.youtube.com/watch?v=sTFJtxJXkaY)
 
@@ -187,10 +191,14 @@ Go 实现配置管理 cli。
 
 从命令行轻松快速地共享文件。
 
+8、[go-mysql-transfer](https://github.com/wj596/go-mysql-transfer)
+
+一款MySQL数据库实时增量同步工具。能够监听MySQL二进制日志(Binlog)的变动，将变更内容形成指定格式的消息，实时发送到接收端。从而在数据库和接收端之间形成一个高性能、低延迟的增量数据同步更新管道。[作者自荐](https://github.com/polaris1119/golangweekly/issues/31)。
+
 ## 订阅
 
 这个周刊每周日发布，同步更新在[Go语言中文网](https://studygolang.com/go/weekly)和[微信公众号](https://weixin.sogou.com/weixin?query=Go%E8%AF%AD%E8%A8%80%E4%B8%AD%E6%96%87%E7%BD%91)。
 
 微信搜索"Go语言中文网"或者扫描二维码，即可订阅。
 
-![wechat](imgs/wechat.png)
+![wechat](https://raw.githubusercontent.com/polaris1119/golangweekly/master/docs/imgs/wechat.png)

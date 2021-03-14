@@ -6,7 +6,7 @@
 
 鉴于一些人可能没法坚持把英文文章看完，因此，周刊中会尽可能推荐优质的中文文章。优秀的英文文章，我们的 GCTT 组织会进行翻译。
 
-![](imgs/issue085/cover.png)
+![](https://raw.githubusercontent.com/polaris1119/golangweekly/master/docs/imgs//issue085/cover.png)
 
 题图：女神节快乐
 
@@ -144,7 +144,7 @@ func main() {
 
 生成下面的图片：
 
-![](imgs/issue085/generateariveart.png)
+![](https://raw.githubusercontent.com/polaris1119/golangweekly/master/docs/imgs//issue085/generateariveart.png)
 
 作者还写了一本[同名书](https://preslav.me/generative-art-in-golang/)。
 
@@ -156,7 +156,7 @@ func main() {
 
 用 Go 编写的高性能 PHP 应用程序服务器，负载均衡器和流程管理器。
 
-![](imgs/issue085/roadrunner.png)
+![](https://raw.githubusercontent.com/polaris1119/golangweekly/master/docs/imgs//issue085/roadrunner.png)
 
 4、[sedna](https://github.com/kubeedge/sedna)
 
@@ -192,7 +192,7 @@ Go 实现的社区搜索引擎。
 
 Go 实现的快速高斯模糊。
 
-![](imgs/issue085/song2.png)
+![](https://raw.githubusercontent.com/polaris1119/golangweekly/master/docs/imgs//issue085/song2.png)
 
 4、[chkb](https://github.com/MetalBlueberry/chkb)
 
@@ -216,4 +216,4 @@ Clever 公司的 Go 使用情况。
 
 微信搜索"Go语言中文网"或者扫描二维码，即可订阅。
 
-![wechat](imgs/wechat.png)
+![wechat](https://raw.githubusercontent.com/polaris1119/golangweekly/master/docs/imgs//wechat.png)
