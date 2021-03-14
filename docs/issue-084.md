@@ -6,7 +6,7 @@
 
 鉴于一些人可能没法坚持把英文文章看完，因此，周刊中会尽可能推荐优质的中文文章。优秀的英文文章，我们的 GCTT 组织会进行翻译。
 
-![](https://raw.githubusercontent.com/polaris1119/golangweekly/master/docs/imgs/issue084/cover.jpg)
+![](imgs/issue084/cover.jpg)
 
 题图：Go is not easy language
 
@@ -169,7 +169,7 @@ golang os.File 的加密替换文件，存储的文件将具有 768 位加密。
 
 将源码转换为图片的命令行工具。
 
-![](https://raw.githubusercontent.com/polaris1119/golangweekly/master/docs/imgs/issue084/germanium.png)
+![](imgs/issue084/germanium.png)
 
 3、[油管视频](https://www.youtube.com/watch?v=sTFJtxJXkaY)
 
@@ -201,4 +201,4 @@ Go 实现配置管理 cli。
 
 微信搜索"Go语言中文网"或者扫描二维码，即可订阅。
 
-![wechat](https://raw.githubusercontent.com/polaris1119/golangweekly/master/docs/imgs/wechat.png)
+![wechat](imgs/wechat.png)
