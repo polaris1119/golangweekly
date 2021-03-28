@@ -219,4 +219,4 @@ Terraform 命令行工具。
 
 微信搜索"Go语言中文网"或者扫描二维码，即可订阅。
 
-![wechat](https://raw.githubusercontent.com/polaris1119/golangweekly/master/docs/imgs/wechat.png)
+![wechat](imgs/wechat.png)
