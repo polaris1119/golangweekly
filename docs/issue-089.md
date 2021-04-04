@@ -114,6 +114,12 @@ Go 离散事件仿真库。
 
 caddy web 服务器的限速插件。
 
+8、[lipgloss](https://github.com/charmbracelet/lipgloss)
+
+漂亮的终端布局的样式定义（基于 TUI）。
+
+![](imgs/issue089/lipgloss.png)
+
 ## 资源&&工具
 
 1、[typer](https://github.com/maaslalani/typer)
@@ -131,6 +137,14 @@ Go 实现的构建虚拟网络工具。
 4、[golangrepo.com](https://golangrepo.com)（[reposhub](https://github.com/reposhub) 投稿）
 
 一个 Golang 开源项目分类汇总查询的网站。
+
+5、[netz](https://github.com/SpectralOps/netz)
+
+网络错误配置扫描器。
+
+6、[fast](https://github.com/adhocore/fast)
+
+互联网测速命令行工具。
 
 ## 订阅
 
