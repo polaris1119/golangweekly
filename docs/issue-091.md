@@ -182,6 +182,10 @@ GopherCon 提案的终极指南。
 
 Golang 实现的 iOS 设备通信工具。
 
+8、[httpit](https://github.com/gonetx/httpit)（[kiyonlin](https://github.com/kiyonlin) 投稿）
+
+一款基于 fasthttp的 http(s) benchmark 工具，实时统计显示测试结果。
+
 ## 订阅
 
 这个周刊每周日发布，同步更新在[Go语言中文网](https://studygolang.com/go/weekly)和[微信公众号](https://weixin.sogou.com/weixin?query=Go%E8%AF%AD%E8%A8%80%E4%B8%AD%E6%96%87%E7%BD%91)。
