@@ -113,7 +113,7 @@ go test 命令提供了许多出色的功能，比如代码覆盖率，CPU 和 �
 
 使用 Go + HTML5 建立跨平台现代桌面应用程序。
 
-![image-20210613182357508](/Users/xuxinhua/opensource/golang/golangweekly/docs/imgs/issue099/lorca.png)
+![](imgs/issue099/lorca.png)
 
 2、[connpool](https://github.com/buraksezer/connpool)
 
