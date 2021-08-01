@@ -10,7 +10,9 @@
 
 ## 2021
 
-**七月**：[第 105 期](docs/issue-105.md):high_brightness: | [第 104 期](docs/issue-104.md) | [第 103 期](docs/issue-103.md) | [第 102 期](docs/issue-102.md)
+**八月**：[第 106 期](docs/issue-106.md):high_brightness:
+
+**七月**：[第 105 期](docs/issue-105.md) | [第 104 期](docs/issue-104.md) | [第 103 期](docs/issue-103.md) | [第 102 期](docs/issue-102.md)
 
 **六月**：[第 101 期](docs/issue-101.md) | [第 100 期](docs/issue-100.md) | [第 99 期](docs/issue-099.md) | [第 98 期](docs/issue-098.md)
 
