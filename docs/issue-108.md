@@ -105,6 +105,10 @@ MongoDB 的 Go 驱动，官方出品。
 
 2021.3 的路线图又出来了，一起看看会有哪些特性。
 
+9、[Excelize 2.4.1 发布](https://xuri.me/excelize/zh-hans/releases/v2.4.1.html)
+
+2021 年 8 月 2 日，社区正式发布了 2.4.1 版本，该版本包含了多项新增功能、错误修复和兼容性提升优化。
+
 ## 文章
 
 1、[线上优化实战：大内存 Go 服务性能优化](https://mp.weixin.qq.com/s/Y4oHfY77BPhD9xORkeRsqA)
@@ -168,6 +172,10 @@ Go 并发数据结构。
 4、[播客第 192 期](https://changelog.com/gotime/192)
 
 Go 与数据流处理。
+
+5、[ssaviewer](https://github.com/kkHAIKE/ssaviewer)
+
+GOSSAFUNC 显示的是用 internal ssa，和平常分析代码用的 xtools ssa 不是一个东西，故做了个简单的工具。
 
 ## 订阅
 
