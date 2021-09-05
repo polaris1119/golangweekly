@@ -52,7 +52,7 @@ LDAP 认证服务器。
 
 ## 文章
 
-[扬眉吐气：刚刚，Go 已经默认支持泛型了](https://mp.weixin.qq.com/s/EMcarjLe2CCJZO9t5rM_Ww)
+1、[扬眉吐气：刚刚，Go 已经默认支持泛型了](https://mp.weixin.qq.com/s/EMcarjLe2CCJZO9t5rM_Ww)
 
 gotip 默认启用了。
 
