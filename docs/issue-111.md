@@ -54,7 +54,7 @@ A：65, string；B：A, string；C：65, int；D：报错
 
 2、[Russ Cox 发推文咨询建议](https://twitter.com/_rsc/status/1433128358683029506)
 
-Go 是否应该增加 int128？issue 见：< https://github.com/golang/go/issues/9455>。
+Go 是否应该增加 int128？issue 见：<https://github.com/golang/go/issues/9455>。
 
 3、[Go语言带来的生活质量提升](https://docs.google.com/presentation/d/1sBXrDYiSCPVBeguQbCJebxIVptjTFKjGOBsElkbp040/edit?resourcekey=0-TM-u9xTZZHUyt3-y9-tZow)
 
