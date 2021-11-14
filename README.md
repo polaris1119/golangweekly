@@ -10,7 +10,7 @@
 
 ## 2021
 
-**十一月**：[第 118 期](docs/issue-118.md):high_brightness:
+**十一月**：[第 119 期](docs/issue-118.md):high_brightness: | [第 118 期](docs/issue-118.md)
 
 **十月**：[第 117 期](docs/issue-117.md) | [第 116 期](docs/issue-116.md) | [第 115 期](docs/issue-115.md)
 
