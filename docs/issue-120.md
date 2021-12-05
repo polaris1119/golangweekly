@@ -52,7 +52,7 @@ func main() {
 }
 ```
 
-A：[]int{}；B：[]int{nil}；C：panic；D：编译错误
+A：[]int{}；B：[]int(nil)；C：panic；D：编译错误
 
 ## 资讯
 
