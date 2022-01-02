@@ -8,9 +8,13 @@
 
 ![](docs/imgs/wechat.png)
 
+## 2022
+
+**一月**：[第 126 期](docs/issue-126.md) :high_brightness:
+
 ## 2021
 
-**十二月**：[第 125 期](docs/issue-125.md):high_brightness: | [第 124 期](docs/issue-124.md) | [第 123 期](docs/issue-123.md) | [第 122 期](docs/issue-122.md)
+**十二月**：[第 125 期](docs/issue-125.md) | [第 124 期](docs/issue-124.md) | [第 123 期](docs/issue-123.md) | [第 122 期](docs/issue-122.md)
 
 **十一月**：[第 121 期](docs/issue-121.md) | [第 120 期](docs/issue-120.md) | [第 119 期](docs/issue-119.md) | [第 118 期](docs/issue-118.md)
 
