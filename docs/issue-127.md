@@ -131,6 +131,10 @@ Tink 是一个多语言、跨平台、开源的库，它提供了安全、易于
 
 将 Go 程序编译成任天堂 Switch 的本地二进制文件。
 
+5、[grpcdump](https://github.com/kkHAIKE/grpcdump)
+
+用来抓取并解析 grpc 的工具。
+
 ## 订阅
 
 这个周刊每周日发布，同步更新在[Go语言中文网](https://studygolang.com/go/weekly)和[微信公众号](https://weixin.sogou.com/weixin?query=Go%E8%AF%AD%E8%A8%80%E4%B8%AD%E6%96%87%E7%BD%91)。

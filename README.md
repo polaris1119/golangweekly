@@ -10,7 +10,7 @@
 
 ## 2022
 
-**一月**：[第 128 期](docs/issue-128.md) :high_brightness: | [第 127 期](docs/issue-127.md) | [第 126 期](docs/issue-126.md)
+**一月**：[第 129 期](docs/issue-129.md) :high_brightness: | [第 128 期](docs/issue-128.md) | [第 127 期](docs/issue-127.md) | [第 126 期](docs/issue-126.md)
 
 ## 2021
 
