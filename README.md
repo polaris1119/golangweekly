@@ -10,7 +10,7 @@
 
 ## 2022
 
-**二月**：[第 131 期](docs/issue-131.md) :high_brightness:
+**二月**：[第 132 期](docs/issue-132.md) :high_brightness: | [第 131 期](docs/issue-131.md)
 
 **一月**：[第 130 期](docs/issue-130.md) | [第 129 期](docs/issue-129.md) | [第 128 期](docs/issue-128.md) | [第 127 期](docs/issue-127.md) | [第 126 期](docs/issue-126.md)
 
