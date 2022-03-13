@@ -30,7 +30,7 @@ func main() {
 
 A：1；B：3；C：4；D：编译错误
 
-正确答案是 C：4。a[3:4:4] 得到一个 slice，从原数组的第 4 个元素（索引是 3）开始，因此 t[0] 是 4。需要需要掌握 reslice 的语法。
+正确答案是 C：4。a[3:4:4] 得到一个 slice，从原数组的第 4 个元素（索引是 3）开始，因此 t[0] 是 4。需要掌握 reslice 的语法。
 
 ## 资讯
 
@@ -48,7 +48,7 @@ A：1；B：3；C：4；D：编译错误
 
 4、[arenas proposal 的原型实现](https://go-review.googlesource.com/c/go/+/387975)
 
-最近 arenas 受关注都很高。
+最近 arenas 受关注度很高。
 
 5、[TiDB 5.4 发布](https://en.pingcap.com/blog/tidb-5-4-kicking-off-2022-with-faster-htap-ease-of-use-and-lower-cost/)
 
@@ -62,7 +62,7 @@ A：1；B：3；C：4；D：编译错误
 
 2、[Go：分布式高并发服务限流实现方案](https://mp.weixin.qq.com/s/GkEAVQ6AWGRadB4fEBlepg)
 
-在高并发大流量系统中，由于并发大造成服务资源不足，负载过高，进而引发致一系列问题。
+在高并发大流量系统中，由于并发大造成服务资源不足，负载过高，进而引发一系列问题。
 
 3、[网友惊呼！Go：完了，我成C++了](https://mp.weixin.qq.com/s/9ys5DYOllFgQGw2GXQDijQ)
 
@@ -78,7 +78,7 @@ Go 语言社区正在讨论名为「arena」的新提案。
 
 ![](imgs/issue134/go-logging-practice.png)
 
-、[Go 1.18 泛型的实现原理](https://github.com/golang/proposal/blob/master/design/generics-implementation-dictionaries-go1.18.md)
+6、[Go 1.18 泛型的实现原理](https://github.com/golang/proposal/blob/master/design/generics-implementation-dictionaries-go1.18.md)
 
 英文的。
 

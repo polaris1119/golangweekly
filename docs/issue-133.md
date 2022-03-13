@@ -36,7 +36,7 @@ A：1；B：3；C：4；D：编译错误
 
 1、[GitLeaks 8.3 发布](https://github.com/zricethezav/gitleaks)
 
-使用正则表达式和 entropy 扫描 git repo（或文件）以查找秘钥。
+使用正则表达式和 entropy 扫描 git repo（或文件）以查找密钥。
 
 2、[kratos 2.2 发布](https://github.com/go-kratos/kratos)
 
