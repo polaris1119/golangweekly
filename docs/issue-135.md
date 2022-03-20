@@ -45,7 +45,7 @@ Kitex 是节跳动框架组研发的下一代高性能、强可扩展性的 Go R
 
 熟悉 Golang 的朋友对于 json 和 struct 之间的转换一定不陌生。
 
-[为什么你不应该接受有 race 的代码](https://mp.weixin.qq.com/s/0vz9uR8zIT64Gvv3qjTENQ)
+3、[为什么你不应该接受有 race 的代码](https://mp.weixin.qq.com/s/0vz9uR8zIT64Gvv3qjTENQ)
 
 在任何语言的并发编程场景中，都有 race 问题，现代语言为了解决 race 问题有两种思路，一种是像 rust 那样的通过所有权+Sync/Send 限制用户尽量无法写出带 race 的代码；一种是像 Go 这样，通过 race detector 在测试期间检查数据竞争问题。
 
@@ -57,7 +57,7 @@ Kitex 是节跳动框架组研发的下一代高性能、强可扩展性的 Go R
 
 有常识的人都知道，在除法运算中不能除以零，而我们在实际的应用中面对大量的上下文，很有可能因为考虑不周就出现除以零的情况。
 
-[Go中main函数的初始化优化-依赖注入](https://mp.weixin.qq.com/s/TSmHhvJw7rmn87bZzZAYhA)
+6、[Go中main函数的初始化优化-依赖注入](https://mp.weixin.qq.com/s/TSmHhvJw7rmn87bZzZAYhA)
 
 本文介绍在 golang 中如何通过依赖注入(Dependency Inject，简称 DI)管理全局服务。
 
