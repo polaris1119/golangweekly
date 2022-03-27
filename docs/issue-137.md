@@ -73,7 +73,7 @@ Go 的 Bloom filters 实现。
 
 Go 要起飞？
 
-3、[goutil/dump —— 打印漂亮且易于阅读的 Go 数据](goutil/dump —— 打印漂亮且易于阅读的 Go 数据)
+3、[goutil/dump —— 打印漂亮且易于阅读的 Go 数据](https://mp.weixin.qq.com/s/fzcZOHDzBFXdtAaydhYJrA)
 
 一个 golang 数据打印工具包，可以打印漂亮易读的 go slice、map、struct 数据。
 
