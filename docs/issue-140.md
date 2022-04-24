@@ -49,11 +49,11 @@ Go 语言编写的用于操作 Office Excel 文档基础库，基于 ECMA-376，
 
 有的时候我们会遇到并发 IO 的情况，例如，并发爬虫下载网络上的图片。如果并发度过高或者下载的内容过大，会导致网络 IO 耗时急剧上升。这时候就需要优化一下每次网络IO 的耗时。
 
-[Go 验证 TCP SYN 超时重传机制](https://mp.weixin.qq.com/s/5ZDNQ8dRfVUK9EUr-iC5RA)
+2、[Go 验证 TCP SYN 超时重传机制](https://mp.weixin.qq.com/s/5ZDNQ8dRfVUK9EUr-iC5RA)
 
 http 或 tcp 调用时的 dial tcp (ip):(port): connect: connection timed out 错误是 SYN 的超时重传机制引起的。如果遇到这种错误，一方面需要考虑 server 可以处理请求的 QPS，另一方面也要检查 client 端重传相关参数的设置。
 
-[从真实事故出发：golang 内存问题排查指北](https://mp.weixin.qq.com/s/HdSIC93HMbqvbQisCr186Q)
+3、[从真实事故出发：golang 内存问题排查指北](https://mp.weixin.qq.com/s/HdSIC93HMbqvbQisCr186Q)
 
 字节跳动文章分享。
 
@@ -61,7 +61,7 @@ http 或 tcp 调用时的 dial tcp (ip):(port): connect: connection timed out �
 
 很全，包含了编码类和非编码类。
 
-[gRPC 客户端长连接机制实现及 keepalive 分析](https://mp.weixin.qq.com/s/U6WMwrowutsvfvrYLz0wOQ)
+5、[gRPC 客户端长连接机制实现及 keepalive 分析](https://mp.weixin.qq.com/s/U6WMwrowutsvfvrYLz0wOQ)
 
 这篇文章分析如何实现客户端保活（keepalive）逻辑。
 
