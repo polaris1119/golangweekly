@@ -10,7 +10,7 @@
 
 ## 2022
 
-**六月**：[第 149 期](docs/issue-149.md) :high_brightness: | [第 148 期](docs/issue-148.md) | [第 147 期](docs/issue-147.md)
+**六月**：[第 150 期](docs/issue-150.md) :high_brightness: | [第 149 期](docs/issue-149.md) | [第 148 期](docs/issue-148.md) | [第 147 期](docs/issue-147.md)
 
 **五月**：[第 146 期](docs/issue-146.md) | [第 145 期](docs/issue-145.md) | [第 144 期](docs/issue-144.md) | [第 143 期](docs/issue-143.md) | [第 142 期](docs/issue-142.md)
 
