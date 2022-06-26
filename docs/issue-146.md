@@ -86,7 +86,7 @@ B 站开源的 Go 微服务框架。
 
 1、[Go 引入箭头函数，你支持吗？](https://mp.weixin.qq.com/s/0q9z2cLcKmxZDfAdNohInA)
 
-提案讨论地址：https://github.com/golang/go/issues/21498。
+提案讨论地址：https://github.com/golang/go/issues/21498 。
 
 2、[牛逼了！Go已主导后端开发，已有330万开发者](https://mp.weixin.qq.com/s/2okEsOShrF-KawXRzE6nlg)
 
