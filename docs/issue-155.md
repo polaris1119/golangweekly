@@ -99,7 +99,7 @@ Ted Dunning t-digest 算法的 Go 实现。
 
 ## 资源&&工具
 
-1、[Go 博客第 242 期](https://changelog.com/gotime/242)
+1、[Go Time 第 242 期](https://changelog.com/gotime/242)
 
 依赖管理之痛。
 
