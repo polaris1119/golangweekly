@@ -110,7 +110,7 @@ Go 和 Rust 是近几年比较受关注的新编程语言，两者没有直接�
 
 想必大家在coding的时候，很少对struct中的字段的字节对齐关注，今天带大家来看一下字节对齐在我们项目编码中的一些影响。
 
-[万字长文告诉你 Go 1.19 中值得关注的几个变化](https://tonybai.com/2022/08/22/some-changes-in-go-1-19)
+6、[万字长文告诉你 Go 1.19 中值得关注的几个变化](https://tonybai.com/2022/08/22/some-changes-in-go-1-19)
 
 新版 Go 内存模型文档与 Go 运行时引入 Soft memory limit。
 
