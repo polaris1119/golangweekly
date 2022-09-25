@@ -12,3 +12,5 @@
 *.out
 
 .DS_Store
+
+.obsidian
