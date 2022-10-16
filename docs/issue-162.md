@@ -1,10 +1,12 @@
-# Go语言爱好者周刊：第 161 期
+# Go语言爱好者周刊：第 162 期
 
 这里记录每周值得分享的 Go 语言相关内容，周日发布。本周刊开源（GitHub：[polaris1119/golangweekly](https://github.com/polaris1119/golangweekly)），欢迎投稿，推荐或自荐文章/软件/资源等，请[提交 issue](https://github.com/polaris1119/golangweekly/issues) 。
 
 鉴于一些人可能没法坚持把英文文章看完，因此，周刊中会尽可能推荐优质的中文文章。优秀的英文文章，我们的 GCTT 组织会进行翻译。
 
 ![](imgs/issue162/cover.png)
+
+题图：喜迎国庆。图片来自网络
 
 ## 刊首语
 
