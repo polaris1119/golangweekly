@@ -26,7 +26,7 @@ func main() {
 
 A：map[]；B：nil；C：Panic；D：编译错误
 
-正确答案是 A。
+正确答案是 A。正确率只有 21%，你答对了吗？
 
 在 delete 函数的文档有说明：
 
@@ -44,18 +44,18 @@ package main
 import "fmt"
 
 func main() {
-	pairs := [][2]string{
-		{"a", "apple"},
-		{"a", "ant"},
-		{"b", "bee"},
-	}
+    pairs := [][2]string{
+        {"a", "apple"},
+        {"a", "ant"},
+        {"b", "bee"},
+    }
 
-	m := map[string]string{
-		pairs[0][0]: pairs[0][1],
-		pairs[1][0]: pairs[1][1],
-		pairs[2][0]: pairs[2][1],
-	}
-	fmt.Println(m["a"])
+    m := map[string]string{
+        pairs[0][0]: pairs[0][1],
+        pairs[1][0]: pairs[1][1],
+        pairs[2][0]: pairs[2][1],
+    }
+    fmt.Println(m["a"])
 }
 ```
 
