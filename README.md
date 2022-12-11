@@ -10,7 +10,7 @@
 
 ## 2022
 
-**十二月**：[第 170 期](docs/issue-170.md) :high_brightness:
+**十二月**：[第 171 期](docs/issue-171.md) :high_brightness: | [第 170 期](docs/issue-170.md)
 
 **十一月**：[第 169 期](docs/issue-169.md) | [第 168 期](docs/issue-168.md) | [第 167 期](docs/issue-167.md) | [第 166 期](docs/issue-166.md)
 
