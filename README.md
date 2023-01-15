@@ -10,7 +10,7 @@
 
 ## 2023
 
-**一月**：[第 173 期](docs/issue-173.md) :high_brightness:
+**一月**：[第 174 期](docs/issue-174.md) :high_brightness: | [第 173 期](docs/issue-173.md)
 
 ## 2022
 
