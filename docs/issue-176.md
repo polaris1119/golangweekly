@@ -70,11 +70,11 @@ Go 中的快速网站链接检查器。
 
 熟悉 Go 的同学都知道 Go 语言标准库 log 有许多痛点，比如没有日志分级、没有结构化（没有 JSON 格式）、扩展性差等，为了解决这些问题 Go 官方推出了结构化日志包 slog，目前这个库正在开发阶段。
 
-4、[Go 1.20中值得关注的几个变化](https://tonybai.com/2023/02/08/some-changes-in-go-1-20/)
+3、[Go 1.20中值得关注的几个变化](https://tonybai.com/2023/02/08/some-changes-in-go-1-20/)
 
 按照惯例，我们依旧首先来看看 Go 语法层面都有哪些变化，这可能也是多数 Gopher 们最为关注的变化点。
 
-5、[基于 Wails 构建桌面应用](https://thedevelopercafe.com/articles/introduction-to-wails-build-desktop-apps-with-go-project-structure-17ee3f7fcdf7)
+4、[基于 Wails 构建桌面应用](https://thedevelopercafe.com/articles/introduction-to-wails-build-desktop-apps-with-go-project-structure-17ee3f7fcdf7)
 
 Wails 是一个使用 Go 编程语言开发桌面应用程序的框架。
 
@@ -128,4 +128,4 @@ Go ARM64 相关资料。
 
 微信搜索"Go语言中文网"或者扫描二维码，即可订阅。
 
-![wechat](https://raw.githubusercontent.com/polaris1119/golangweekly/master/docs/imgs/wechat.png)
+![wechat](imgs/wechat.png)
