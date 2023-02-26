@@ -1,4 +1,4 @@
-# Go语言爱好者周刊：第 176 期
+# Go语言爱好者周刊：第 177 期
 
 这里记录每周值得分享的 Go 语言相关内容，周日发布。本周刊开源（GitHub：[polaris1119/golangweekly](https://github.com/polaris1119/golangweekly)），欢迎投稿，推荐或自荐文章/软件/资源等，请[提交 issue](https://github.com/polaris1119/golangweekly/issues) 。
 
