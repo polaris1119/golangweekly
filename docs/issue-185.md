@@ -60,7 +60,7 @@ defer 语句的执行顺序是 后进先出，和数据结构中的 Stack (栈) 
 
 你怎么做的？
 
-、[Go 1.20.4 发布](https://mp.weixin.qq.com/s/jcpjBGNGD09cXRO9zYgtag)
+4、[Go 1.20.4 发布](https://mp.weixin.qq.com/s/jcpjBGNGD09cXRO9zYgtag)
 
 劳动节期间，Go 又发新版了。
 
