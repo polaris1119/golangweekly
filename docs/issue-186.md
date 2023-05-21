@@ -34,7 +34,7 @@ Go 实现的功能齐全的 SFTP 服务器。
 
 基于反射的依赖注入工具包，Uber 出品。
 
-、[Excelize 发布 2.7.1](https://xuri.me/excelize/zh-hans/releases/v2.7.1.html)
+7、[Excelize 发布 2.7.1](https://xuri.me/excelize/zh-hans/releases/v2.7.1.html)
 
 Go 语言编写的用于操作 Office Excel 文档基础库。
 
