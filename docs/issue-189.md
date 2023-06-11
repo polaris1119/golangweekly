@@ -36,7 +36,7 @@ SMTP email 服务器。
 
 文件类型识别是在很多应用场景中都需要用到的功能，本文介绍标准库的方法。
 
-、[filetype: 一个基于 Go 语言的文件类型鉴别神器](https://mp.weixin.qq.com/s/tOlhhT2Abmv2_QSJTqXqSQ)
+3、[filetype: 一个基于 Go 语言的文件类型鉴别神器](https://mp.weixin.qq.com/s/tOlhhT2Abmv2_QSJTqXqSQ)
 
 一个 Go 语言的第三方库，可以根据文件的魔数（magic numbers）签名来推断文件的类型和 MIME 类型。
 
@@ -44,7 +44,7 @@ SMTP email 服务器。
 
 本文主要分析 channel 的内部实现中的数据结构和算法。
 
-、[Go 每日一库之 redis官网推荐的go版本的分布式锁：redsync](https://mp.weixin.qq.com/s/yXbEMTsZEgLWZuZgrFPXSg)
+5、[Go 每日一库之 redis官网推荐的go版本的分布式锁：redsync](https://mp.weixin.qq.com/s/yXbEMTsZEgLWZuZgrFPXSg)
 
 给大家推荐的是基于 redis 的 Go 版本的分布式锁工具：redsync。
 
