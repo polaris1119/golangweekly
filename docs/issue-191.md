@@ -64,8 +64,6 @@ Go语言的垃圾回收机制（Garbage Collection，简称 GC）是其重要的
 
 TDengine Go 连接器 https://github.com/taosdata/driver-go，使用 cgo 调用 taos.so 中的 API，使用过程中发现线程数不断增长，本文从一个 cgo 调用开始解析 Go 源码，分析造成线程增长的原因。
 
-8、 Golang Websocket 百万连接测试
-
 ## 开源项目
 
 1、[geziyor](https://github.com/geziyor/geziyor)
