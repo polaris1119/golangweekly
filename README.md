@@ -10,7 +10,7 @@
 
 ## 2023
 
-**七月**：[第 194 期](docs/issue-194.md) :high_brightness: | [第 193 期](docs/issue-193.md)
+**七月**：[第 195 期](docs/issue-195.md) :high_brightness: | [第 194 期](docs/issue-194.md) | [第 193 期](docs/issue-193.md)
 
 **六月**：[第 192 期](docs/issue-192.md) | [第 191 期](docs/issue-191.md) | [第 190 期](docs/issue-190.md) | [第 189 期](docs/issue-189.md)
 
