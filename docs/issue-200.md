@@ -56,7 +56,7 @@ Go Team 发布了 Go1.21.1 和 Go1.20.8，这是两个小版本，主要涉及�
 
 QQ 浏览器搜索 —— 基础架构团队出品。
 
-、[吵翻了！到底该选 Rust 还是 Go，成2023年最大技术分歧](https://mp.weixin.qq.com/s/a2LSIrPSTjo5zlWWiEpjUA)
+5、[吵翻了！到底该选 Rust 还是 Go，成2023年最大技术分歧](https://mp.weixin.qq.com/s/a2LSIrPSTjo5zlWWiEpjUA)
 
 虽然 Rust 和 Go 在语法和风格上差别很大，但它们都是构建软件的一流工具。
 
