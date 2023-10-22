@@ -10,7 +10,9 @@
 
 ## 2023
 
-**九月**：[第 201 期](docs/issue-201.md) :high_brightness: | [第 200 期](docs/issue-200.md) | [第 199 期](docs/issue-199.md)
+**十月**：[第 202 期](docs/issue-202.md) :high_brightness:
+
+**九月**：[第 201 期](docs/issue-201.md) | [第 200 期](docs/issue-200.md) | [第 199 期](docs/issue-199.md)
 
 **八月**：[第 198 期](docs/issue-198.md) | [第 197 期](docs/issue-197.md)
 
