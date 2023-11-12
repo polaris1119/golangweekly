@@ -26,7 +26,7 @@ Golang 可爱的图表库。想将条形图，线形图，饼图或其他图表�
 
 小型、零依赖的调度库，启发自 Java 的 Quartz。
 
-[bloom v3.6 发布](https://github.com/bits-and-blooms/bloom)
+5、[bloom v3.6 发布](https://github.com/bits-and-blooms/bloom)
 
 Go 的 Bloom filters 实现。
 
